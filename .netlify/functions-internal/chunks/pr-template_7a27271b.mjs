@@ -1,0 +1,27 @@
+import { f as createComponent, r as renderTemplate, m as maybeRenderHead, u as unescapeHTML } from './astro_c5329516.mjs';
+import 'clsx';
+
+const html = "<h2 id=\"any-italic-text-should-be-deleted-from-the-final-pull-request-text-including-this-line\">Any italic text should be deleted from the final Pull Request text, including this line</h2>\n<h2 id=\"description\">Description</h2>\n<p><em>Please include a summary of the change and which issue is fixed. Please also include relevant\nmotivation and context. List any dependencies that are required for this change.</em></p>\n<p>Fixes # (issue)</p>\n<h2 id=\"type-of-change\">Type of change</h2>\n<p><em>Please delete options that are not relevant.</em></p>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Bug fix (non-breaking change which fixes an issue)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> New feature (non-breaking change which adds functionality)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Breaking change (fix or feature that would cause existing functionality to not work as\nexpected)</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> This change requires a documentation update</li>\n</ul>\n<h2 id=\"how-has-this-been-tested\">How Has This Been Tested?</h2>\n<p><em>Please describe the tests that you ran to verify your changes. Provide instructions so we can\nreproduce. Please also list any relevant details for your test configuration</em></p>\n<h2 id=\"testing-checklist\">Testing Checklist</h2>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Tested in latest Chrome</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Tested in latest Safari</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Tested in latest Firefox</li>\n</ul>\n<h2 id=\"checklist\">Checklist</h2>\n<ul class=\"contains-task-list\">\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> My code follows the style guidelines of this project</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> I have performed a self-review of my own code</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> I have commented my code in hard-to-understand areas</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> I have made corresponding changes to the documentation</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> My changes generate no new warnings</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> I have requested a review from NAMES HERE on the Pull Request</li>\n</ul>";
+
+				const frontmatter = {"title":"PR Template","sidebar":{"label":"PR Template"}};
+				const file = "C:/Users/Danma/OneDrive/Desktop/Deakin-Work/Github Work/Capstone-Documentation-Website-Template/src/content/docs/processes/quality-assurance/templates/pr-template.md";
+				const url = undefined;
+				function rawContent() {
+					return "\n## Any italic text should be deleted from the final Pull Request text, including this line\n\n## Description\n\n_Please include a summary of the change and which issue is fixed. Please also include relevant\nmotivation and context. List any dependencies that are required for this change._\n\nFixes # (issue)\n\n## Type of change\n\n_Please delete options that are not relevant._\n\n- [ ] Bug fix (non-breaking change which fixes an issue)\n- [ ] New feature (non-breaking change which adds functionality)\n- [ ] Breaking change (fix or feature that would cause existing functionality to not work as\n      expected)\n- [ ] This change requires a documentation update\n\n## How Has This Been Tested?\n\n_Please describe the tests that you ran to verify your changes. Provide instructions so we can\nreproduce. Please also list any relevant details for your test configuration_\n\n## Testing Checklist\n\n- [ ] Tested in latest Chrome\n- [ ] Tested in latest Safari\n- [ ] Tested in latest Firefox\n\n## Checklist\n\n- [ ] My code follows the style guidelines of this project\n- [ ] I have performed a self-review of my own code\n- [ ] I have commented my code in hard-to-understand areas\n- [ ] I have made corresponding changes to the documentation\n- [ ] My changes generate no new warnings\n- [ ] I have requested a review from NAMES HERE on the Pull Request\n";
+				}
+				function compiledContent() {
+					return html;
+				}
+				function getHeadings() {
+					return [{"depth":2,"slug":"any-italic-text-should-be-deleted-from-the-final-pull-request-text-including-this-line","text":"Any italic text should be deleted from the final Pull Request text, including this line"},{"depth":2,"slug":"description","text":"Description"},{"depth":2,"slug":"type-of-change","text":"Type of change"},{"depth":2,"slug":"how-has-this-been-tested","text":"How Has This Been Tested?"},{"depth":2,"slug":"testing-checklist","text":"Testing Checklist"},{"depth":2,"slug":"checklist","text":"Checklist"}];
+				}
+
+				const Content = createComponent((result, _props, slots) => {
+					const { layout, ...content } = frontmatter;
+					content.file = file;
+					content.url = url;
+
+					return renderTemplate`${maybeRenderHead()}${unescapeHTML(html)}`;
+				});
+
+export { Content, compiledContent, Content as default, file, frontmatter, getHeadings, rawContent, url };

@@ -1,11 +1,11 @@
 ---
-title: Thoth Tech Technology Stack Document
+title: Capstone Technology Stack Document
 ---
 
-This document outlines the technology stack used across all products at Thoth Tech Company. The
+This document outlines the technology stack used across all products at example Company. The
 primary reason for creating this document was to showcase the various kinds of technologies being
 used across different products, along with the skills required for those who are interested in
-joining a product.
+joining a product. You should update this document to reflect your own company.
 
 ### Company Operations
 
@@ -41,15 +41,15 @@ joining a product.
   completion of tasks.
 - Knowledge and skills in data science will be helpful.
 
-### OnTrack
+### Product A
 
-#### Tools used in OnTrack
+#### Tools used in Product A
 
 - GitHub
 - Git
 - Trello Board
 
-#### Languages used in OnTrack
+#### Languages used in Product A
 
 - Markdown
 - Angular JS
@@ -61,14 +61,14 @@ joining a product.
 - Tailwind CSS
 - TypeScript
 
-#### Software used in OnTrack
+#### Software used in Product A
 
 - Microsoft Teams
 - Visual Studio Code
 - Docker Desktop
 - MariaDB Database
 
-#### Skills required to work within Ontrack product
+#### Skills required to work within Product A
 
 - Having solid understanding of frontend and backend.
 - Being familiar with GitHub, will ensure smooth onboarding within the product.
@@ -82,9 +82,9 @@ joining a product.
 - Willing to adapt new technologies and tools over time.
 - Positive attitude toward learning range of new skills such as Angular/ Typescript and Ruby.
 
-### SplashKit
+### Product B 
 
-#### Tools used in SplashKit
+#### Tools used in Product B
 
 - GitHub
 - Git
@@ -92,14 +92,14 @@ joining a product.
 - Trello Board
 - Raspberry Pi
 
-#### Languages used in SplashKit
+#### Languages used in Product B
 
 - Markdown
 - C++
 - C#
 - Bash Scripts
 
-#### Software used in SplashKit
+#### Software used in Product B
 
 - Microsoft Teams
 - Visual Studio Code
@@ -109,7 +109,7 @@ joining a product.
 - Clockify
 - Astro Starlight
 
-#### Skills required to work within SplashKit product
+#### Skills required to work within Product B
 
 - Having solid understanding of C++ and C# is required.
 - Having the ability to figure out syntax of the other programming languages, even if not confident
@@ -122,28 +122,28 @@ joining a product.
 - In terms of the SplashKit expansion, the ability to update the SplashKit library and functionality
   is important.
 
-### CourseFlow
+### Product C
 
-#### Tools used in CourseFlow
+#### Tools used in Product C
 
 - GitHub
 - Trello Board
 - Figma
 - Draw.io (now integrated into diagrams.net)
 
-#### Languages used in CourseFlow
+#### Languages used in Product C
 
 - Markdown
 - Ruby on Rails
 - TypeScript (for creating frontend web applications using Angular)
 
-#### Software used in CourseFlow
+#### Software used in Product C
 
 - Microsoft Teams
 - Visual Studio Code
 - Docker
 
-#### Skills required to work within CourseFlow product
+#### Skills required to work within Product C
 
 - CourseFlow uses Angular for the frontend, so having knowledge in that area would be beneficial.
   For example, if a person has skills in web technologies, picking up Angular wouldn’t be hard.

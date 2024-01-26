@@ -7,10 +7,11 @@ export default defineConfig({
   integrations: [
     starlightBlog(),
     starlight({
-      title: "Thoth Tech",
+      title: "Capstone",
       customCss: ["./src/styles/custom.css"],
       social: {
-        github: "https://github.com/thoth-tech",
+        // This should be changed to your companies repo
+        github: "https://github.com/Capstone-Template-orginisation/website-template",
       },
       components: {
         MarkdownContent: "starlight-blog/overrides/MarkdownContent.astro",
@@ -21,8 +22,8 @@ export default defineConfig({
         {
           label: "Processes",
           items: [
-            { label: "Thoth Tech Technology Stack Document", 
-              link: "processes/thoth-tech-technology-stack",
+            { label: "Capstone Example Stack Document", 
+              link: "processes/example-thoth-tech-technology-stack",
             },
 
             { label: "Introduction", link: "/processes/introduction" },
