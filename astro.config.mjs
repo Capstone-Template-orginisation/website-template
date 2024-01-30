@@ -20,7 +20,7 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: "Processes",
+          label: "Usefull Company Processes",
           items: [
             { label: "Capstone Example Stack Document", 
               link: "processes/example-thoth-tech-technology-stack",
@@ -63,15 +63,9 @@ export default defineConfig({
           ],
         },
         {
-          label: "Teams and Leadership",
+          label: "Example Teams and Leadership",
           autogenerate: {
             directory: "teams-and-leadership",
-          },
-        },
-        {
-          label: "Company Wide Submissions",
-          autogenerate: {
-            directory: "companywidesubmissions",
           },
         },
         {
@@ -81,220 +75,57 @@ export default defineConfig({
           },
         },
         {
-          label: "Policies",
+          label: "Example Company Policies",
           autogenerate: {
             directory: "policies",
           },
         },
         {
-          label: "Products",
+          label: "Capstone-Training",
           items: [
             {
-              label: "Products",
-              link: "/products/products",
+              label: "",
+              link: "/Capstone-Training/Capstone-Training",
             },
             {
-              label: "Art Gallery",
+              label: "Github - Training",
               items: [
                 {
-                  label: "Get to Know Us",
-                  link: "/products/art-gallery/example",
-                },
-                {
-                  label: "Projects",
+                  label: "Github",
                   autogenerate: {
-                    directory: "products/art-gallery/projects",
+                    directory: "/Capstone-Training/Github/",
                   },
-                  items: [
-                    {
-                      label: "Lighthouse",
-                      autogenerate: {
-                        directory: "products/art-gallery/Projects/Lighthouse",
-                      },
-                    },
-                    {
-                      label: "Dockerization",
-                      autogenerate: {
-                        directory: "products/art-gallery/Projects/dockerization",
-                      },
-                    },
-                  ],
-                },
-                {
-                  label: "Documentation",
+              
+                  label: "Github Written Guides",
                   autogenerate: {
-                    directory: "products/art-gallery/Documentation",
+                    directory: "/Capstone-Training/Github/",
                   },
                 },
                 {
-                  label: "Issues and Resolutions",
+                  label: "Github Video Guides",
                   autogenerate: {
-                    directory: "products/art-gallery/issues-and-resolutions",
+                    directory: "/Capstone-Training/Github/",
                   },
-                },
+                  },
               ],
             },
+            
             {
-              label: "Company Operations",
+              label: "Trello",
               items: [
+
                 {
-                  label: "Get to Know Us",
-                  link: "/products/company-operations/example",
-                },
-                {
-                  label: "Projects",
+                  label: "Trello Written Guides",
                   autogenerate: {
-                    directory: "products/company-operations/projects",
-                  },
-                  items: [
-                    {
-                      label: "Docusaurus Documentation",
-                      autogenerate: {
-                        directory: "products/company-operations/projects/docusaurus-documentation",
-                      },
-                    },
-                    {
-                      label: "Thoth Tech Website",
-                      autogenerate: {
-                        directory: "products/company-operations/projects/Thoth-Tech-Website",
-                      },
-                    },
-                  ],
-                },
-                {
-                  label: "Documentation",
-                  autogenerate: {
-                    directory: "products/company-operations/documentation",
+                    directory: "Capstone-Training/Trello",
                   },
                 },
                 {
-                  label: "Issues and Resolutions",
+                  label: "Trello Video Guides",
                   autogenerate: {
-                    directory: "products/company-operations/issues-and-resolution",
+                    directory: "Capstone-Training/Trello",
                   },
-                },
-              ],
-            },
-            {
-              label: "CourseFlow",
-              items: [
-                {
-                  label: "Get to Know Us",
-                  link: "/products/courseflow/example",
-                },
-                {
-                  label: "Projects",
-                  autogenerate: {
-                    directory: "products/courseflow/Projects",
-                  },
-                },
-                {
-                  label: "Documentation",
-                  autogenerate: {
-                    directory: "products/courseflow/Documentation",
-                  },
-                },
-                {
-                  label: "Issues and Resolutions",
-                  autogenerate: {
-                    directory: "products/courseflow/issues-and-resolutions",
-                  },
-                },
-              ],
-            },
-            {
-              label: "OnTrack",
-              items: [
-                {
-                  label: "Get to Know Us",
-                  link: "/products/ontrack/example",
-                },
-                {
-                  label: "Projects",
-                  autogenerate: {
-                    directory: "products/ontrack/projects",
-                  },
-                },
-                {
-                  label: "Documentation",
-                  autogenerate: {
-                    directory: "products/ontrack/documentation",
-                  },
-                  items: [
-                    {
-                      label: "Front End Migration",
-                      autogenerate: {
-                        directory: "products/ontrack/documentation/front-end-migration",
-                      },
-                    },
-                    {
-                      label: "Numbas",
-                      autogenerate: {
-                        directory: "products/ontrack/documentation/numbas",
-                      },
-                    },
-                    {
-                      label: "Deployment",
-                      autogenerate: {
-                        directory: "products/ontrack/documentation/deployment",
-                      },
-                    },
-                  ],
-                },
-                {
-                  label: "Issues and Resolutions",
-                  autogenerate: {
-                    directory: "products/ontrack/issues-and-resolutions",
-                  },
-                },
-              ],
-            },
-            {
-              label: "SplashKit",
-              items: [
-                {
-                  label: "Get to Know Us",
-                  link: "/products/splashkit/example",
-                },
-                {
-                  label: "Projects",
-                  autogenerate: {
-                    directory: "products/splashkit/projects",
-                  },
-                },
-                {
-                  label: "Documentation",
-                  autogenerate: {
-                    directory: "products/splashkit/documentation",
-                  },
-                  // items: [
-                  //   {
-                  //     label: "Applications",
-                  //     autogenerate: {
-                  //       directory: "products/splashkit/documentation/applications",
-                  //     },
-                  //   },
-                  // ],
-                   items: [
-                     {
-                       label: "Tutorials",
-                       autogenerate: {
-                         directory: "products/splashkit/documentation/tutorials",
-                       },
-                     },
-                     {
-                       label: "Expansions",
-                       autogenerate: {
-                         directory: "products/splashkit/documentation/expansions",
-                       },
-                     },
-                   ],
-                },
-                {
-                  label: "Issues and Resolutions",
-                  autogenerate: {
-                    directory: "products/splashkit/issues-and-resolutions",
-                  },
+                  
                 },
               ],
             },
