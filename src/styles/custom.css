@@ -43,7 +43,7 @@
 }
 
 /*products page*/
-.ontrack {
+.trello {
   --sl-color-gray-1: #3691ff; /*??*/
   --sl-color-gray-2: #3691ff; /*hover outline*/
   --sl-color-gray-3: #3691ff; /*Text Colour*/
@@ -61,7 +61,7 @@ img.ontrack {
   float: right;
 }
 
-.splashkit {
+.github {
   --sl-color-gray-1: #f5a623; /*??*/
   --sl-color-gray-2: #f5a623; /*hover outline*/
   --sl-color-gray-3: #f5a623; /*Text Colour*/
