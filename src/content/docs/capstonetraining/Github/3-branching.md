@@ -12,7 +12,6 @@ Learn to branch with confidence by watching our tutorial:
 
 [![Branching Video](https://youtu.be/uXUfgMFB_k8?list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE "Branching with GitHub - Click to Watch!")
 
-Remember to replace `VIDEO_ID` with your video's actual ID.
 
 ## What is a Branch?
 
