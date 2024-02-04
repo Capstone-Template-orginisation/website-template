@@ -10,7 +10,7 @@ In this guide, we'll explore how to fork and clone repositories on GitHub, essen
 
 Dive deeper with our video tutorial that covers everything you need to know about forking and cloning repositories on GitHub:
 
-[![Forking and Cloning Repositories Video](https://youtu.be/d7O95zD_xTA?list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE "Forking and Cloning Repositories - Click to Watch!")
+[!Forking and Cloning Repositories Video](https://youtu.be/d7O95zD_xTA?list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE "Forking and Cloning Repositories - Click to Watch!")
 
 
 ## What are Forking and Cloning?

@@ -10,7 +10,7 @@ Welcome to our introductory guide to GitHub! This document serves as a quick pri
 
 For a comprehensive walkthrough, check out our video tutorial:
 
-[![Intro to GitHub Video](https://www.youtube.com/watch?v=oSVUcAoUH9Y&list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE&index=2 "Intro to GitHub - Click to Watch!")
+[!Intro to GitHub Video](https://www.youtube.com/watch?v=oSVUcAoUH9Y&list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE&index=2 "Intro to GitHub - Click to Watch!")
 
 
 ## What is GitHub?

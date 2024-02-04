@@ -10,7 +10,7 @@ Understanding branches in GitHub is essential for managing different features or
 
 Learn to branch with confidence by watching our tutorial:
 
-[![Branching Video](https://youtu.be/uXUfgMFB_k8?list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE "Branching with GitHub - Click to Watch!")
+[!Branching Video](https://youtu.be/uXUfgMFB_k8?list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE "Branching with GitHub - Click to Watch!")
 
 
 ## What is a Branch?
