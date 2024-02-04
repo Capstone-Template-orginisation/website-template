@@ -85,7 +85,7 @@ export default defineConfig({
           items: [
             {
               label: "",
-              link: "/Capstone-Training/Capstone-Training",
+              link: "/capstonetraining/example.mdx",
             },
             {
               label: "Github - Training",
@@ -93,20 +93,15 @@ export default defineConfig({
                 {
                   label: "Github",
                   autogenerate: {
-                    directory: "/Capstone-Training/Github/",
+                    directory: "/capstonetraining/Github/",
                   },
               
-                  label: "Github Written Guides",
+                  label: "Github Guides",
                   autogenerate: {
-                    directory: "/Capstone-Training/Github/",
+                    directory: "/capstonetraining/Github/",
                   },
                 },
-                {
-                  label: "Github Video Guides",
-                  autogenerate: {
-                    directory: "/Capstone-Training/Github/",
-                  },
-                  },
+               
               ],
             },
             
@@ -115,17 +110,10 @@ export default defineConfig({
               items: [
 
                 {
-                  label: "Trello Written Guides",
+                  label: "Trello Guides",
                   autogenerate: {
-                    directory: "Capstone-Training/Trello",
+                    directory: "capstonetraining/Trello",
                   },
-                },
-                {
-                  label: "Trello Video Guides",
-                  autogenerate: {
-                    directory: "Capstone-Training/Trello",
-                  },
-                  
                 },
               ],
             },
