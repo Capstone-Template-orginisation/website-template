@@ -1,33 +1,42 @@
 /*global theme*/
 /* Dark mode colors. */
+/* Global variables for dark mode */
+/* Global variables for "Bold by Nature" dark mode theme */
 :root {
-  --sl-color-accent-low: #242424;
-  --sl-color-accent: #6a6a6a;
-  --sl-color-accent-high: #c8c8c8;
-  --sl-color-white: #ffffff;
-  --sl-color-gray-1: #eeeeee;
-  --sl-color-gray-2: #c2c2c2;
-  --sl-color-gray-3: #8b8b8b;
-  --sl-color-gray-4: #585858;
-  --sl-color-gray-5: #383838;
-  --sl-color-gray-6: #272727;
-  --sl-color-black: #181818;
+  --sl-color-accent-low: #2d3319; /* Dark olive for low accent */
+  --sl-color-accent: #556b2f; /* Olive drab for main accent */
+  --sl-color-accent-high: #6b8e23; /* Moss green for high accent */
+  --sl-color-black: #0b0c0a; /* Almost black, for deep contrast */
+  --sl-color-gray-1: #3e442b; /* Dark moss */
+  --sl-color-gray-2: #4e5633;
+  --sl-color-gray-3: #5f6741;
+  --sl-color-gray-4: #707950;
+  --sl-color-gray-5: #808b60;
+  --sl-color-gray-6: #919c70; /* Light moss for lighter elements */
+  --sl-color-white: #f0f0f0; /* Soft white for text */
 }
+
+
 /* Light mode colors!!! */
+/* Variables override for light mode */
+/* Variables override for "White and Blue" light mode theme */
+/* Variables override for light mode (White and Blue) */
 :root[data-theme="light"] {
-  --sl-color-accent-low: #d7d7d7;
-  --sl-color-accent: #6b6b6b;
-  --sl-color-accent-high: #323232;
-  --sl-color-white: #181818;
-  --sl-color-gray-1: #272727;
-  --sl-color-gray-2: #383838;
-  --sl-color-gray-3: #585858;
-  --sl-color-gray-4: #8b8b8b;
-  --sl-color-gray-5: #c2c2c2;
-  --sl-color-gray-6: #eeeeee;
-  --sl-color-gray-7: #f6f6f6;
-  --sl-color-black: #ffffff;
+  --sl-color-accent-low: #ebf2fa; /* Very light blue for background */
+  --sl-color-accent: #0077b6; /* Blue for accents and menu bar */
+  --sl-color-accent-high: #023e8a; /* Deeper blue for highlights */
+  --sl-color-black: #03045e; /* Deep blue for text */
+  --sl-color-text: #03045e; /* Adding this for text color clarity */
+  --sl-color-gray-1: #f2f7f8; /* Lightest blue for backgrounds */
+  --sl-color-gray-2: #865def;
+  --sl-color-gray-3: #39217a;
+  --sl-color-gray-4: #7e61f4;
+  --sl-color-gray-5: #04d800;
+  --sl-color-gray-6: #c6bce1;
+  --sl-color-white: #5d22dc; /* Pure white for main content background */
 }
+
+
 
 /*landing page*/
 .aboutContainer {
@@ -62,20 +71,6 @@ img.ontrack {
 }
 
 .github {
-  --sl-color-gray-1: #f5a623; /*??*/
-  --sl-color-gray-2: #f5a623; /*hover outline*/
-  --sl-color-gray-3: #f5a623; /*Text Colour*/
-  --sl-color-gray-4: #f5a623; /*??*/
-  --sl-color-gray-5: #855506; /*non-hover outline*/
-  --sl-color-gray-6: #131313; /*hover background*/
-  --sl-color-black: #f5a623; /*Text colour light mode*/
-  --sl-color-white: #f5a623; /*Text colour dark mode*/
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.starlight {
   --sl-color-gray-1: #545454; /*??*/
   --sl-color-gray-2: #545454; /*hover outline*/
   --sl-color-gray-3: #545454; /*Text Colour*/
@@ -84,6 +79,21 @@ img.ontrack {
   --sl-color-gray-6: #131313; /*hover background*/
   --sl-color-black: #545454; /*Text colour light mode*/
   --sl-color-white: #545454; /*Text colour dark mode*/
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.starlight {
+  --sl-color-gray-1: #f5a623; /*??*/
+  --sl-color-gray-2: #f5a623; /*hover outline*/
+  --sl-color-gray-3: #f5a623; /*Text Colour*/
+  --sl-color-gray-4: #f5a623; /*??*/
+  --sl-color-gray-5: #855506; /*non-hover outline*/
+  --sl-color-gray-6: #131313; /*hover background*/
+  --sl-color-black: #f5a623; /*Text colour light mode*/
+  --sl-color-white: #f5a623; /*Text colour dark mode*/
   display: flex;
   justify-content: center;
 }
@@ -136,4 +146,52 @@ img.ontrack {
   height: 50px;
   object-fit: scale-down;
   margin: 30px;
+}
+body {
+  background-color: var(--sl-color-gray-1);
+  color: var(--sl-color-white);
+}
+
+a, .link {
+  color: var(--sl-color-accent);
+}
+
+a:hover, .link:hover {
+  color: var(--sl-color-accent-high);
+}
+
+.header, .footer {
+  background-color: var(--sl-color-accent-low);
+  color: var(--sl-color-black);
+}
+
+.button-primary {
+  background-color: var(--sl-color-accent);
+  color: var(--sl-color-white);
+}
+
+.button-primary:hover {
+  background-color: var(--sl-color-accent-high);
+}
+/* Styling for the menu bar to use the accent color for background and white text */
+.menu-bar, .navigation, header {
+  background-color: var(--sl-color-accent); /* Blue background for the menu bar */
+  color: var(--sl-color-white); /* White text for menu items */
+}
+
+/* Ensure links in the menu bar are also white for visibility */
+.menu-bar a, .navigation a, header a {
+  color: var(--sl-color-white);
+}
+
+/* Adjusting the main content area for white background and blue text */
+.main-content, .content, article, .article-body {
+  background-color: var(--sl-color-white); /* White background for readability */
+  color: var(--sl-color-black); /* Deep blue text */
+}
+
+/* Styling links within the main content to stand out */
+.main-content a, .content a, article a, .article-body a {
+  color: var(--sl-color-accent-high); /* Deeper blue for links */
+  text-decoration: underline; /* Optional, for better link visibility */
 }
