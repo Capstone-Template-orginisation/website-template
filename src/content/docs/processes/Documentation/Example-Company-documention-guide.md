@@ -1,10 +1,10 @@
 ---
-title: Documenting for Thoth Tech
+title: Company Documentation
 sidebar:
-  label: Documenting for Thoth Tech
+  label: Company Documenation Guide
 ---
 
-Thoth Tech prides itself on our ability to produce sustainable solutions, this can be achieved
+Company prides itself on our ability to produce sustainable solutions, this can be achieved
 through documentation. Documentation is an important element in the software development life cycle.
 It continues throughout the entire project. It is imperative to remember, others will take over your
 projects or want to learn more about how it works and why.
@@ -13,17 +13,17 @@ Documentation is offical information, provided by the company, for users and con
 Documentation is written for specific audiences and provides knowledge on the development lifecycle
 and end product.
 
-The Thoth Tech documentation is stored in the
+The Company documentation is stored in the
 [documentation repositry](https://github.com/thoth-tech/documentation)., in the company GitHub. All
 documentation should be written in markdown and includes: research, meeting minutes, software user
 guides, and more.
 
-## Top tips for Thoth Tech writing
+## Top tips for Company Tech writing
 
-Effective writing is clear, easy to read, and concise. Thoth Tech writing should follow the
+Effective writing is clear, easy to read, and concise. Company writing should follow the
 guidelines of plain English (Australian English).
 
-Here at Thoth Tech, we aim for all our writing to meet these goals:
+Here at Company, we aim for all our writing to meet these goals:
 
 - **To Empower:** We want our people to have the knowledge to make the most of our products.
 

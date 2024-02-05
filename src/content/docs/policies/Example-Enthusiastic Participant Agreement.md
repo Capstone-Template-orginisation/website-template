@@ -5,7 +5,7 @@ title: Enthusiastic Participant Agreement
 ### Welcome aboard!
 
 We're thrilled to have you on this journey. This agreement marks the collaborative spirit between
-you - our enthusiastic participant – and Thoth Tech.
+you - our enthusiastic participant – and Company.
 
 ### Our Objective:
 
@@ -26,7 +26,7 @@ it's an opportunity to create something you will be proud of long after your stu
 5. <b>Documenting the Journey</b>: Maintaining a record of our project’s journey is vital. We'll
    document requirements, track progress, and shares updates along the way.
 6. <b>Quality Assurance</b>: Quality is non-negotiable. Regular checks and reviews will ensure our
-   work meets Thoth Tech’s high standards.
+   work meets Company’s high standards.
 7. <b>Duration</b>: This agreement is effective from the moment we sign it and will go on until the
    end of trimester 3. If needed, extensions may be discussed depending on project’s requirements.
 

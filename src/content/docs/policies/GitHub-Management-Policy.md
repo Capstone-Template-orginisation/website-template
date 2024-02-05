@@ -4,7 +4,7 @@ title: GitHub Management Policy
 
 ## GitHub Management Policy
 
-This document provides instructions on how to use GitHub as a Thoth Tech team member.
+This document provides instructions on how to use GitHub as a Company team member.
 
 As a team member who wants to contribute to your team’s project, the following steps should be
 followed to get your code or markdown document published to the main branch of your products
@@ -31,7 +31,7 @@ repository.
 If you forked from the wrong repo and you haven’t made any commits, then the easiest option is to
 start over. If you have made commits you will need to change the fork location like this...
 
-1. Fork the correct repo (the Thoth Tech one) via the GitHub web interface
+1. Fork the correct repo (the Company one) via the GitHub web interface
 
 2. Navigate to the your local repo's root directory in terminal
 

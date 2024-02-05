@@ -4,7 +4,7 @@ sidebar:
   label: Remote Working Guide
 ---
 
-Members of Thoth Tech will spend the majority of their time with the company in a remote working
+Members of Company will spend the majority of their time with the company in a remote working
 environment. In today’s online environment, there are numerous cyber risks that are associated with
 working remotely. This guide will detail these risks, as well as some mitigating factors which are
 vital for creating a cyber-secure remote working environment. As such, this guide will assist Thoth
@@ -24,7 +24,7 @@ Tech members to become cyber-aware and enforce best cyber security practices in 
 
 ## Associated risks
 
-In most remote working scenarios, Thoth Tech members will be utilising their own personal computers
+In most remote working scenarios, Company members will be utilising their own personal computers
 and Internet networks for conducting company activities. As such, there are numerous risks
 associated with remote working.
 
@@ -65,7 +65,7 @@ increases the risk of a successful cyber-attack.
 
 ## Mitigation strategies
 
-For Thoth Tech members, there are recommended practices that work to mitigate the cyber risks of
+For Company members, there are recommended practices that work to mitigate the cyber risks of
 remote working and strengthen their cyber security posture:
 
 - Perform regular backups of data and information, as this assists in restoring information should a

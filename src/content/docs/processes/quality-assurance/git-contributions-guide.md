@@ -18,17 +18,17 @@ sidebar:
 
 ## Contributing to Repositories: How To
 
-Repositories are where existing Thoth Tech code is stored, and where new code contributions, once
+Repositories are where existing Company code is stored, and where new code contributions, once
 tested and approved, will ultimately be merged.
 
 In order to begin new work on your project, you will need to clone a local copy of the relevant
-Thoth Tech repository.
+Company repository.
 
 Steps:
 
 ### If you have never worked on the repository before
 
-- Clone your project's relevant Thoth Tech repository to your local machine and navigate to the
+- Clone your project's relevant Company repository to your local machine and navigate to the
   created project folder; you will find yourself on the default branch (main/master).
 
 ### If you already have a copy of this repository on your local machine
@@ -100,7 +100,7 @@ git checkout -b feature/voice-verification-1.2-store-voice-input
 
 ## Commit Guidelines
 
-Thoth Tech follows the same Git commit message format as required by the Doubtfire LMS (source
+Company follows the same Git commit message format as required by the Doubtfire LMS (source
 doubtfire-lms's
 [CONTRIBUTING.md](https://github.com/doubtfire-lms/doubtfire-deploy/blob/development/CONTRIBUTING.md#commit-message-format))
 which this section predominantly mirrors. This format makes for an easier to read and more useful
@@ -226,7 +226,7 @@ creating a new GitHub repository. For more information on how to set this up cor
 
 ### Start a new piece of work
 
-1. Synch repo and set up for your new feature branch (remember to use Thoth Tech
+1. Synch repo and set up for your new feature branch (remember to use Company
    [branching guidelines](#branching-guidelines) for naming the new branch; we have used the
    guideline example of _feature/voice-verification-1.2-store-voice-input_ for our workflow
    illustration):

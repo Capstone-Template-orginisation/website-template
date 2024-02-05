@@ -3,7 +3,7 @@ title: Contributing Effectively in T3 2023
 ---
 
 Welcome to T3 2023, we are eager to see the excellent work that would be produced at the end of this
-trimester. This document provides information to guide every member of Thoth Tech in contributing
+trimester. This document provides information to guide every member of Company in contributing
 effectively to their various products.
 
 ## T3 2023 Calendar
@@ -20,11 +20,11 @@ company.
 
 ![T3 Cakendar](/T3-calendar.png)
 
-## Thoth Tech Products and Mentors
+## Company Products and Mentors
 
 By the end of week 1, it is expected that everyone has been assigned to a team and has engaged with
 the product leads and mentors. In any product/team you find yourself ensure that you follow the
-rules and guidelines of the team. Only 3 Thoth Tech products would be worked on this trimester
+rules and guidelines of the team. Only 3 Company products would be worked on this trimester
 because of the limited time and manpower. The products and respective mentors are listed below.
 
 1. Ontrack: Daniel Maddern

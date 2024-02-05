@@ -85,7 +85,7 @@ export default defineConfig({
           items: [
             {
               label: "",
-              link: "/capstonetraining/example.mdx",
+              link: "/capstonetraining/github/",
             },
             {
               label: "Github - Training",

@@ -3,7 +3,7 @@ title: Committed Participant Agreement
 ---
 
 This agreement is entered into by and between the undersigned students (“Participants”) of
-(SIT374/SIT764 & SIT378/SIT782) at Thoth Tech (“Company”).
+(SIT374/SIT764 & SIT378/SIT782) at Company (“Company”).
 
 ## Objective
 
@@ -26,7 +26,7 @@ studies.
    challenges, and solutions is essential. Participants agree to maintain detailed records and share
    updates regularly.
 6. Quality Assurance: Participants commit to ensuring the highest quality of work. Regular testing
-   and quality checks will be conducted to meet or exceed Thoth Tech's standards.
+   and quality checks will be conducted to meet or exceed Company's standards.
 7. Duration: This agreement is effective from the day of signing and continues until the end of
    trimester 3. Extensions may be discussed based on project requirements.
 

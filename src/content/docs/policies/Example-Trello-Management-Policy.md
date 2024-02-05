@@ -4,7 +4,7 @@ title: Trello Management Policy
 
 ## Trello Management Policy
 
-This document states the guideline every Thoth Tech employee should adopt when using Trello.
+This document states the guideline every Company employee should adopt when using Trello.
 
 ### Associate all Completed Trello Cards with GitHub
 
