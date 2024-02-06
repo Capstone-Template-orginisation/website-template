@@ -17,23 +17,21 @@
 }
 
 
-/* Light mode colors!!! */
-/* Variables override for light mode */
-/* Variables override for "White and Blue" light mode theme */
-/* Variables override for light mode (White and Blue) */
+/* Light mode colors - Improved Readability Theme */
+/* Variables override for light mode with high contrast blue and white */
 :root[data-theme="light"] {
-  --sl-color-accent-low: #ebf2fa; /* Very light blue for background */
-  --sl-color-accent: #0077b6; /* Blue for accents and menu bar */
-  --sl-color-accent-high: #023e8a; /* Deeper blue for highlights */
-  --sl-color-black: #03045e; /* Deep blue for text */
-  --sl-color-text: #03045e; /* Adding this for text color clarity */
-  --sl-color-gray-1: #f2f7f8; /* Lightest blue for backgrounds */
-  --sl-color-gray-2: #865def;
-  --sl-color-gray-3: #39217a;
-  --sl-color-gray-4: #7e61f4;
-  --sl-color-gray-5: #04d800;
-  --sl-color-gray-6: #c6bce1;
-  --sl-color-white: #5d22dc; /* Pure white for main content background */
+  --sl-color-accent-low: #2b10f7; /* Very light blue for subtle background accents */
+  --sl-color-accent: #0288D1; /* Strong blue for primary accents */
+  --sl-color-accent-high: #01579B; /* Deep blue for highlights and active elements */
+  --sl-color-black: #01070e; /* White text on blue backgrounds */
+  --sl-color-text: #01579B; /* Deep blue text for high contrast on light backgrounds */
+  --sl-color-gray-1: #0ccee8; /* Light blue for general background areas */
+  --sl-color-gray-2: #B3E5FC; /* Light blue for secondary accents */
+  --sl-color-gray-3: #81D4FA; /* Clear blue for decorative elements */
+  --sl-color-gray-4: #4FC3F7; /* Brighter blue for interactive elements */
+  --sl-color-gray-5: #29B6F6; /* Vivid blue for attention-grabbing components */
+  --sl-color-gray-6: #0288D1; /* Strong blue for important UI elements */
+  --sl-color-white: #fbfafa; /* Pure white for main content and contrast */
 }
 
 
@@ -140,58 +138,3 @@ img.ontrack {
   align-items: center;
 }
 
-/*product images*/
-.pi {
-  width: 50px;
-  height: 50px;
-  object-fit: scale-down;
-  margin: 30px;
-}
-body {
-  background-color: var(--sl-color-gray-1);
-  color: var(--sl-color-white);
-}
-
-a, .link {
-  color: var(--sl-color-accent);
-}
-
-a:hover, .link:hover {
-  color: var(--sl-color-accent-high);
-}
-
-.header, .footer {
-  background-color: var(--sl-color-accent-low);
-  color: var(--sl-color-black);
-}
-
-.button-primary {
-  background-color: var(--sl-color-accent);
-  color: var(--sl-color-white);
-}
-
-.button-primary:hover {
-  background-color: var(--sl-color-accent-high);
-}
-/* Styling for the menu bar to use the accent color for background and white text */
-.menu-bar, .navigation, header {
-  background-color: var(--sl-color-accent); /* Blue background for the menu bar */
-  color: var(--sl-color-white); /* White text for menu items */
-}
-
-/* Ensure links in the menu bar are also white for visibility */
-.menu-bar a, .navigation a, header a {
-  color: var(--sl-color-white);
-}
-
-/* Adjusting the main content area for white background and blue text */
-.main-content, .content, article, .article-body {
-  background-color: var(--sl-color-white); /* White background for readability */
-  color: var(--sl-color-black); /* Deep blue text */
-}
-
-/* Styling links within the main content to stand out */
-.main-content a, .content a, article a, .article-body a {
-  color: var(--sl-color-accent-high); /* Deeper blue for links */
-  text-decoration: underline; /* Optional, for better link visibility */
-}
