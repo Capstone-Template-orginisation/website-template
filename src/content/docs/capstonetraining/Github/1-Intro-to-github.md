@@ -22,5 +22,6 @@ GitHub is a web-based platform for version control and collaboration. It allows 
 To begin using GitHub, you need to create a free account on [GitHub.com](https://github.com). Once you've set up your account, you can start creating repositories, collaborating with others, and contributing to open-source projects.
 
 ## Conclusion
+Git isn’t just for programmers - data scientists, engineers, project managers, etc. all need to know how to use git in industry for collaboration with their colleagues. It’s used for  documentation, configuration files, build files, sharing ideas, as well as coding.
 
 GitHub is an invaluable tool for developers, writers, and anyone looking to manage projects or collaborate with others. We hope this video and guide provide you with a solid foundation to start your GitHub journey.
