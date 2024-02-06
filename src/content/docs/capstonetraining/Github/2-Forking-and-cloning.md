@@ -17,7 +17,10 @@ Dive deeper with our video tutorial that covers everything you need to know abou
 
 **Forking** a repository means creating a personal copy of someone else's project to your account. It allows you to freely experiment with changes without affecting the original project.
 
-**Cloning** a repository involves making a local copy of a repository on your computer. This allows you to work on the project offline and sync your changes with the GitHub repository.
+Note: do not fork at an organisation level, pick the main repo you wish to work on and fork from there.
+Ideally you would fork the repository you plan to work on into your personal GitHub’s repository, work on the file, commit the changes for review, and when approved the updates would be merged to the main repository and fork will be deleted.
+
+**Cloning** a repository involves making a local copy of a repository on your computer. This allows you to work on the project offline and sync your changes with the GitHub repository. for tasks such as updating or adding documentation, clone the repository you are adding/making changes to, make the changes locally on your PC, test it looks right, then commit the changes straight away to be reviewed by a fellow company member and aproved to be merged, merge it. you can now see updates made to the online repository.
 
 ## How to Fork a Repository
 
@@ -32,7 +35,8 @@ After forking, you'll have a copy of the repository in your GitHub account.
 1. On GitHub, navigate to the main page of the repository.
 2. Above the list of files, click **Code**.
 3. To clone the repository using HTTPS, under "Clone with HTTPS", click the clipboard icon to copy the URL.
-4. Open your terminal.
-5. Change the current working directory to the location where you want the cloned directory.
-6. Type `git clone`, and then paste the URL you copied earlier.
+4. Open your terminal within VS code.
+5. Change the current working directory to the location where you want the cloned directory using `cd ..` to navigate back a folder (if you wish), and using the file path of your choice to change directory such as:
+`cd Users\User\Documents\GitHub\Handbook` **make sure you are cloning into an empty folder!**
+7. Type `git clone`, and then paste the URL you copied earlier. 
 
