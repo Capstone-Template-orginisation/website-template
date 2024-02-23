@@ -6,13 +6,13 @@ title: "Powerups and Automations"
 
 ## Overview
 
-Powerups and automations are very useful features. Integration through powerups with other prominent IT platforms enhances project workflow and collaboration. Automations help to automate mundane and time-consuming administration tasks. Buttons within Trello allow you to do a set of tasks with an easy click. These features save valuable time and effort for project work.
+Powerups and automations are very useful features. Powerups facilitate integration with other prominent IT platforms enhancing project workflow and collaboration. Automations help to automate mundane and time-consuming administration tasks. These features save valuable time and effort for project work.
 
 ## Watch our Video Tutorial
 
-Check out the below video covering finding, adding and using powerups for enhanced workflow management. Creating automations and buttons to streamline administration work is also covered.
+Check out the below video covering finding, adding and using powerups. Creating automations to streamline administration work is also covered.
 
-*Link: https://youtu.be/vi9y5j3G3Ro*
+*Link: https://youtu.be/ZE_C6lTeZvA*
 
 ## Powerups
 
@@ -20,7 +20,7 @@ Powerups are integrations you can add to your Trello board so you can manage the
 
 **Adding Power-Ups**
 
-- Go to the board menu; click Power-Ups; Add Browse powerups; and search for the ones you need;
+- Go to the board menu; click Power-Ups; Add powerups; and search for the ones you need;
 - Click "Add" to integrate the particular powerup into your board.
 
 **GitHub**
@@ -38,7 +38,7 @@ Powerups are integrations you can add to your Trello board so you can manage the
 - Microsoft Teams is another handy powerup which can be linked to the Trello Account during capstone. Integrating the Microsoft Teams powerup within Trello allows you to manage the Board within the Microsoft Teams environment. Collaboration with team members on cards and project files is therefore enhanced.
 
 **OneDrive**
-- A third valuable powerup is OneDrive. This allows you to connect the Trello Board directly to one or multiple OneDrive accounts. As a result, a capstone student can directly attach files or folders from OneDrive to a card.
+- OneDrive allows you to connect the Trello Board directly to one or multiple OneDrive accounts. As a result, a capstone student can directly attach files or folders from OneDrive to a card.
 
 Some other good powerups for capstone are Gmail and Calendar View. Still, there are many more to explore so ensure you review the powerups feature. A sample card is below with the Github and OneDrive powerup links for workflow efficiency. Here is a guide for using Trello Powerups _(https://trello.com/guide/integrate-apps#do-more-with-power-ups)_.
 

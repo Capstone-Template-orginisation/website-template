@@ -1,21 +1,21 @@
 ---
-title: "Advanced Functionality & Tips"
+title: "Advanced Functionality & Helpful Resources"
 ---
-# Advanced Functionality & Tips
+# Advanced Functionality & Helpful Resources
 
 ## Overview
 
-Trello has a lot of advanced features and functionality which can be very handy as a capstone student. Each project has different requirements and workflow. So, it can be a good idea to look into creating tailored buttons for a particular project. Card Templates facilitate clarity and streamline project organisation for consistency. Reviewing from the View is another option to help manage important deadlines. Finally, there are lots of IT newsletters, Atlassian blogs and guides for using Trello, so keep exploring this excellent tool.
+Through Trello you can create tailored functionality for a particular project. Tailored buttons can be created based on a project's requirements and workflow. Card Templates can be set-up facilitating organisation and consistency. Reviewing from the View is another option to help manage important deadlines. Finally, there are lots of helpful resources online to further enhance your Trello and project management skills. 
 
 ## Watch our Video Tutorial
 
-Check out the below video going over advanced workflow functionality along with helpful resources for using Trello.
+Check out the below video covering buttons, templates and helpful Trello resources.
 
-*Link:*
+*Link: https://youtu.be/E_xOCkFamIo*
 
 ## Buttons
 
-Custom made buttons are a feature of Trello to consider using within capstone. Buttons are handy since they allow you to do one simple click to perform automation rules, powerups and workflows from either the board or a card. To create a button, open the card and select the Add Button feature under automation. The prompts can then be followed to create the button settings. For example, in the below screenshot I created a button to move a card to the top of the review list and mark the task as complete. This means when a task is complete, I can select this button so all completed tasks are in the one place with similar labels.
+Buttons are handy since they allow you, with a single click to manage automation rules and workflows. To create a button, open the card and select the *Add Button* tab under *Automation*. The prompts can then be followed to create the button actions. For example, in the below screenshot, I created a button to move a card to the top of the review list and mark the task as complete. This means when a task is ready to be reviewed, I can easily perform the administration required. 
 
 ![buttons](img/c5_buttons.png)
 
@@ -23,11 +23,11 @@ _Figure 1: Review Button_
 
 ## Card Templates
 
-Card templates are a great option within capstone for building a repeatable, clear and consistent workflow. Formalisation through templates allows for effective organisation, ensuring no important details from the project are missed.
+Card templates are a great option within capstone for building a repeatable, clear and consistent workflow. Formalisation through templates allows for effective organisation, ensuring no important actions are missed.
 
-In order to create a card template, all you need to do is click the “Create a new Template” icon at the bottom right of the card. From the template card back, you can create a set of elements that are copied to any created card. Some items that you can add to a card template include: attachments, cover, members, checklists, labels and custom fields. In addition, if you would like to convert a particular card to a template you can do this through the ‘Make Template’ button. This is a good option to consider if you keep copying many features from one particular card.
+In order to create a card template, all you need to do is click the *Create a new Template* icon at the bottom right of any list. From the template card back, you can create a set of elements that are copied to any template created card. Some items that you can add to a card template include: attachments, covers, members, checklists, labels and custom fields. In addition, if you would like to convert a particular card to a template you can do this through the *Make Template* button in the bottom right corner of the open card. 
 
-A suggestion within capstone is to create a template for particular types of tasks requiring completion. Let’s create a sample card template for any Front-End web development tasks requiring documentation. This template will have a checklist for task completion, appropriate labels, members who will be added automatically to the new card on creation (such as the web development lead), along with a cover for visual presentation and organisation. The template has been created below and can now be used for any new web development tasks required.
+It is recommended to create a template for particular categories of tasks requiring completion. A sample card template is below for any Front-End web development tasks requiring documentation. This template will have a checklist for task completion, appropriate labels, members who will be added automatically to the new card on creation (such as the web development lead), along with a cover for visual presentation and organisation.
 
 In essence, card templates are a great way for ensuring consistency and clarity within the Trello board.
 
@@ -37,23 +37,27 @@ _Figure 2: Template Front End Web Development Card_
 
 ## View
 
-The main idea behind the view feature is to provide a calendar incorporating the project workflows and key deadlines. This effectively manages tasks and displays project information for workflow planning. Views make it easy to display your data across boards and teams in a clear and actionable way.
+The main idea behind the View feature is to provide a calendar incorporating the project workflows and key deadlines. This effectively manages tasks and displays project information for workflow planning. Views make it easy to display your data across boards and teams in a clear and actionable way.
 
-This allows you to stay on top of due dates within the calendar view, and sync with your personal calendar for project-life balance. This can be accessed through clicking Workspace Views then Calendar. Note this is a feature of Trello Premium so some students may not have access (_Trello Blog 2024_).
+This allows you to stay on top of due dates within the calendar view, and sync with your personal calendar for project-life balance. This can be accessed through clicking Workspace Views then Calendar. Note this is a feature of Trello Premium (_Trello Blog 2024_).
 
 ## Helpful Resources
 
-There are many great resources to fully explore the features of Trello. Some helpful resources are listed below:
+There are many great resources to fully explore the features of Trello and enhance your project management skills. Some helpful resources are listed below:
 
-- Creating and managing a Trello Board _(https://www.youtube.com/watch?v=9OngFw0Q3Zg&list=PL4H_oPRK80z6st7sR7xeoI5hY4p6NFsFz)_;
-- Trello Essential Training, a LinkedIn Learning course (https://www.linkedin.com/learning/trello-essential-training-22650139?u=2104084)*;
-- The Atlassian Work Life blog, providing many helpful articles to enhance your office productivity and IT savoir (https://www.atlassian.com/blog)*;
-- Here is an article with some great tips on setting up a Trello Board as a productivity dashboard (https://www.atlassian.com/blog/productivity/trello-productivity-guide)*;
-- The Trello YouTube channel has excellent walk-through videos showing advanced features (https://www.youtube.com/@trello)*;
-- New to Trello Guide is excellent for exploring the features on offer (https://trello.com/guide?utm_source=trello&utm_medium=inapp&utm_content=header-tips&utm_campaign=guide)*;
-- Advanced Checklists for Managing Cards (https://www.atlassian.com/blog/trello/advanced-checklists)*;
-- Your Personality at Work Newsletter (https://www.atlassian.com/blog/collections/personality-at-work)*;
-- Lightweight Ways to Customize Trello (https://www.atlassian.com/blog/trello/lightweight-ways-to-customize-trello)\*.
+- Creating and managing a Trello Board *(https://www.youtube.com/watch?v=9OngFw0Q3Zg&list=PL4H_oPRK80z6st7sR7xeoI5hY4p6NFsFz)*;
+- Trello Essential Training, a LinkedIn Learning course *(https://www.linkedin.com/learning/trello-essential-training-22650139?u=2104084)*;
+- The Atlassian Work Life blog, providing many helpful articles to enhance your office productivity and IT savoir *(https://www.atlassian.com/blog)*;
+- Setting up Trello as a productivity dashboard *(https://www.atlassian.com/blog/productivity/trello-productivity-guide)*;
+- The Trello YouTube channel, providing excellent walk-through videos *(https://www.youtube.com/@trello)*;
+- New to Trello Guide *(https://trello.com/guide?utm_source=trello&utm_medium=inapp&utm_content=header-tips&utm_campaign=guide)*;
+- Advanced Checklists for Managing Cards *(https://www.atlassian.com/blog/trello/advanced-checklists)*;
+- Your Personality at Work Newsletter *(https://www.atlassian.com/blog/collections/personality-at-work)*;
+- Lightweight Ways to Customize Trello *(https://www.atlassian.com/blog/trello/lightweight-ways-to-customize-trello)*.
+
+## Conclusion
+
+You have now learnt how to create buttons, set up card templates and explored helpful Trello resources. Great work!
 
 ## References
 
