@@ -6,27 +6,23 @@ title: "Managing a Capstone Trello Board"
 
 ## Overview 
 
-Effective board management is key to making the most out of Trello. This chapter covers how to add lists, cards, and organize your board efficiently.
-
-Now that we have created a Capstone Trello Board in the last tutorial, let’s go over some features for effectively a Trello Board. Learning to set up and manage cards and lists effectively is essential for success during capstone. Labels and filters will also be explored for maximum organisational capacity. Finally we will go over customizing the settings for a Capstone University Trello Board.
+Now that we have created a Trello Board, let’s go over effectively managing a Trello Board for the Deakin University capstone program. Learning the general Trello Workflow, managing cards and lists will be covered. Labels, filters and board settings will also be explored for enhanced organisation.
 
 ## Watch our Video Tutorial
 
-Learn how to manage the Trello Board effectively though a variety of features by watching the below video. 
+Watch the below video to learn how to manage the Trello Board effectively.
 
-*Link:*
+*Link: https://youtu.be/4FO6Knp0U8k*
 
 ## Workflows in Trello
 
-A well-defined  and customised workflow in Trello helps keep your project organized and on track, significantly improving project efficiency. Here are some tips to manage your workflow during capstone.
+A well-defined and customised workflow in Trello helps keep your project organized and on track, significantly improving project efficiency.
 
 *Setting Up Your Workflow:*
 - Define your project stages as lists,
-- Create cards for tasks and move them across lists to track progress.
-
-*Customizing Workflows:*
-- Use labels to indicate task status,
-- Integrate Power-Ups for automation and enhanced functionality.
+- Create cards representing tasks and move them across lists to track progress,
+- Use card features for organisation,
+- Integrate advanced features such as Power-Ups for automation and enhanced organisational functionality.
 
 ## Managing Cards
 
@@ -35,9 +31,9 @@ In essence, each Trello card should encapsulate a capstone task to be completed 
 The following features are required in a card:
 
 - **Members**: Assign the team members actioning the card.
-- **Checklists**: Items required to complete the card.
-- **Dates**: The date on the card should be end date of the sprint end date.
-- **Attachments**: Any relevant attachments about the task should be included in this section.
+- **Checklists**: Actions required to complete the card.
+- **Dates**: The due date to the card, this should be a particular sprint end date.
+- **Attachments**: Any relevant attachments required to complete the card.
 - **Cover**: Capstone team members can insert a cover photo to represent the card.
 
 ![manage_cards](img/c3_managecards.png)
@@ -46,12 +42,11 @@ _Figure 1: A Sample Capstone Trello Card_
 
 ## Managing Lists
 
-**Creating Lists:** Click the "Add another list" button on your board to start a new list. A new list can be created through entering a list name into the add another list bar on the far right-hand side and pressing enter. Once this has been done. It is a good idea to put a Trello card at the top of the new list for a description.
+**Creating Lists:** Click the "Add another list" button on your board to start a new list. Enter the list name and press enter. It is recommended to place a card at the top of the list for descriptive purposes. 
 
 There are two great Trello List Template options for a capstone student:
-
 - **The Agile Sprint Template** consisting of the following lists: Project Information, Possible Tasks, Backlog, Sprint Backlog, Doing, Review, Sprint Complete.
-- **The Kanban Template** with the lists: Project Information, Backlog, Design, To Do, Doing, Code Review, Testing and Done.
+- **The Kanban Template** with the lists: Project Information, Possible Tasks, Backlog, Design, To Do, Doing, Code Review, Testing and Done.
 
 ![kanban_template](img/c3_kanban.png)
 
@@ -63,18 +58,17 @@ _Figure 3: The Agile Sprint Template_
 
 ### Templates and Project Information
 
-It is also a good suggestion to create a Templates and Project Information list. This list will house information on the project required by the team members. For example, information on using the board, upskilling, templates and tricks, and onboarding documents for new team members to be across. Below are some suggestions for cards to have within this list. These cards have been used in previous projects.
+It is recommended to have a *Templates and Project Information* list on the capstone board. Located on the far-left, this list will house information required for effective project management. Some suggested cards are are below. 
 
 **Suggested cards:**
-
-- **Using this board:** This card can house information on using the Trello board. Scrum rules can be detailed through this card. Information on the backlog, creating a new card, the leadership team along with how to operate successfully within the general scrum framework.
-- **Read Me First Links and Documents:** This card will contain general links and documents so that new team members can seamlessly get up to speed with the project. Most recent handover documentation, showcase videos, designs, onboarding checklist and project tutorials should be included within this card.
-- **Tips & Tricks:** One of the simplest cards to implement, a place where team members can share any helpful hints or IT tips to successfully work on the project.
-- **Upskilling for this Project:** This card should contain learning courses so that new team members can learn the necessary skills required for their capstone project. It contains LinkedIn Learning paths such as: Become a Data Analyst, Become a Data Scientist, or Become a Full Stack Web Developer.
+- **Using this board:** This card can house information on using the Trello board effectively. For example, Scrum rules can be detailed through this card. Information on the backlog, creating a new card, the leadership team along with how to operate successfully within the general scrum framework can be included;
+- **Read Me First - Links and Documents:** This card will contain general links and documents so that new team members can seamlessly get up to speed with the project. Recent handover documentation, showcase videos, designs, onboarding checklist and project tutorials should be included within this card;
+- **Tips & Tricks:** A place where team members can share any helpful hints or IT tips to successfully work on the project;
+- **Upskilling for this Project:** This card should contain learning courses relevant to the capstone company and project. For example it could contain LinkedIn Learning paths such as: *Become a Data Analyst, Become a Data Scientist*, or *Become a Full Stack Web Developer*.
 
 ## Labels
 
-Creating labels for the Trello Board is a handy for effective capstone project organisation. Trello Labels help capstone students with organising, prioritising, and categorising cards. Labels can be created through the menu tab on the right-hand side of the board. One suggestion in capstone is to have two sets of labels. One set of labels for the prioritization of tasks and another for categorization of activities.
+Creating labels for the Trello Board is handy for effective project organisation. Trello Labels help capstone students with organising, prioritising, and categorising cards. Labels can be created through the menu tab on the right-hand side of the board. It is recommended to have two sets of labels. One for the prioritization of tasks and another for task categorization.
 
 _Prioritization categories:_
 
@@ -82,7 +76,7 @@ _Prioritization categories:_
 - Medium priority (orange, aiming to completed by the end of the trimester)
 - High priority (red, aiming to completed by the end of the next sprint)
 
-_Task categories Suggestion 1:_
+_Task categories - Suggestion 1:_
 
 - Setup (dark green)
 - Config (yellow)
@@ -90,7 +84,7 @@ _Task categories Suggestion 1:_
 - FrontEnd (red)
 - Cloud (purple)
 
-_Task categories Suggestion 2:_
+_Task categories - Suggestion 2:_
 
 - Web Development (dark green)
 - Data Science (yellow)
@@ -108,7 +102,7 @@ _Figure 4: Sample Capstone Labels_
 
 ## Filters
 
-Filters in Trello can be used to effectively manage a Trello Card. This feature allows you to sort through cards based on either: due date, members, labels or the activity. For example, as a capstone student you could filter Trello tasks that are due by the end date of the next sprint.
+Filters in Trello can be used to effectively manage a Trello Card. This feature allows you to sort through cards based on selected criteria. For example, as a capstone student you could filter tasks that are due by the end of the next sprint.
 
 ![filters](img/c3_filters.png)
 
@@ -118,21 +112,21 @@ Trello cards can be filtered in two ways through either any or an exact match. A
 
 ## Updating Board Settings
 
-An important aspect of the Trello Board to review is the board settings. Clicking on the three dots to the right-hand side of the board displays the menu section. From here, a team member can engage in various board management activities including: adding a description, monitoring activity, and reviewing the settings. There should always be a description of the board. To add one, first click on about this board and description. Next, a description of the board can be added in this section.
+An important aspect of the Trello Board to review is the board settings. Clicking on the three dots to the right-hand side of the board displays the menu section. From here, a team member can engage in various board management activities including: adding a description, monitoring activity, and reviewing the settings. There should always be a description of the board. To add one, first click on about this board and description.
 
 ![board_settings](img/c3_boardsettings.png)
 
 _Figure 6: Updating the Board Description_
 
-The settings section further allows the user to organise the Workspace, Permissions and Covers. From here, you can watch, copy, close, print, export and share the Trello Board. These are handy features if you would like to collaborate with others using the Trello board. Another settings feature is the email to board. This feature emails the user the Trello Board allowing them to directly add to the board through their email shown below. Custom fields are an advanced feature only available through Premium allowing you to create text fields, dates and more for the cards.
+The settings section further allows the user to organise the Workspace, Permissions and Covers. From here, you can watch, copy, close, print, export and share the Trello Board. These are handy features if you would like to collaborate with others using the Trello board. Another settings feature is the email to board. This feature emails the user the Trello Board allowing them to directly add cards to the board through their email. Custom fields are an advanced feature only available through Premium, allowing you to create customised card features such as text fields and more.
 
 ![email_board](img/c3_emailboard.png)
 
 _Figure 7: Email to Board Feature_
 
-## Summary
+## Conclusion
 
-You have now gone over key functionality to manage the Trello Board effectively during your capstone experience. Good work! Managing your Trello board effectively can streamline your project workflow, making it easier to track progress and collaborate with your team.
+You have now gone over key functionality to manage the Trello Board effectively during your capstone experience. Managing your Trello board effectively can streamline your project workflow, making it easier to track progress and collaborate with your team. Good work! 
 
 ## References
 
