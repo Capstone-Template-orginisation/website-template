@@ -1,33 +1,79 @@
 ---
-title: "Commiting Code"
+title: "4. Commiting Code"
 ---
-# Commiting Code
 
-want to add changes to the file/s?
+# Mastering Code Commitment on GitHub
 
-Once you have modified or added files you need to add them to your commit history so that Git knows what changes to submit. to do this type `git add <fileName>` in your VS code terminal.
+Committing code is a fundamental step in the version control process, allowing you to track the evolution of your projects and collaborate effectively with others. This section will guide you through adding changes to your commit history, crafting meaningful commit messages, and synchronizing your changes with GitHub.
 
-### Getting the current status
-At any time on your local machine you can check the status of your changes using the command `git status`. This will tell you what changes have been made since the last commit. This is handy if you’re multitasking or get pulled away and need to remember where you’re at.
+## Commiting Code Video Tutorial
 
-### Committing changes with a valid commit message: 
-Why? It is important to write an accurate description of what you are committing to the repository, what has been changed/added/fixed? So that the person responsible for approving your file, knows what they are looking at specifically and what to test for before merging.
+A comprehensive video tutorial will soon be available to visually guide you through the process of committing code on GitHub. This tutorial will provide step-by-step instructions to enhance your understanding and ensure a smooth workflow.
 
-A brief description of code update eg: “updated code links to new file paths, navigation to links now functional again”
-Or a new page has been created eg: “introduction to project README created for (specific repo) with instructions on how to use/navigate the repo for this project”
+## Preparing Your Changes
 
-How: 
-Enter `git commit -m "<commit message>" `
-to save the changes to your local repository. 
-You can enter anything for the commit message, but adding -m "[commit message]" specifies what this code change is doing, so it's helpful to be clear and concise. 
+Before your changes can be recorded in your project's history, they must be staged. This process involves selecting the modifications you wish to include in your next commit.
 
-Please don’t be lazy with your commit messages, your tutors and your fellow students have to read these messages and make sense of them. “Added files” doesn’t tell us what you’ve changed!
+git add <fileName>
 
 
-### Pulling and Pushing changes: 
-After you have made a pull (download) and have the most recent files, and made your changes, a push (upload) of the files will update the origin files to the ones changed or added by you for all to see on the live website (once approved).
+Replace `<fileName>` with the name of the file you've modified or use `.` to add all changes.
+
+## Checking Your Current Status
+
+It's easy to lose track of which changes have been staged for commit. Use the following command to display your working directory's current state:
 
 
-How:
-First pull in any changes from other team members on GitHub. Use the `git pull origin main` command to pull down any approved changes to the main repo. If you are working with colleagues on your branch you will also need to `git pull` which will update any changes to the current branch.
-After this, enter `git push origin <branch name>` to save your code changes to GitHub. After the first upload which creates the branch on GitHub you can just use `git push`.
+Replace `<fileName>` with the name of the file you've modified or use `.` to add all changes.
+
+## Checking Your Current Status
+
+It's easy to lose track of which changes have been staged for commit. Use the following command to display your working directory's current state:
+
+git status
+
+
+This command will list staged changes, unstaged changes, and files that are not being tracked by Git.
+
+## Crafting a Meaningful Commit Message
+
+Commit messages are crucial for understanding the history of your project. They should clearly describe what was changed and why.
+
+### Why It Matters:
+
+- **Clarity**: A clear commit message helps reviewers understand the purpose of your changes.
+- **Project History**: Well-crafted messages enhance the readability of your project's history.
+
+### How to Commit:
+
+git commit -m "Describe your changes here"
+
+
+#### Example Messages:
+
+- "Updated navigation links to reflect new file structure."
+- "Added README.md for project setup instructions."
+
+## Synchronizing Changes with GitHub
+
+After committing your changes locally, you need to synchronize them with your GitHub repository.
+
+### Pulling Changes:
+
+To ensure your local repository is up to date, pull any changes made by others:
+
+git pull origin main
+
+
+### Pushing Your Changes:
+
+Once your local repository is updated, push your changes to GitHub:
+
+git push origin <branchName>
+
+
+Replace `<branchName>` with the name of your branch. If you're pushing for the first time, this command also creates the branch on GitHub.
+
+## Conclusion
+
+Understanding how to commit code and manage your changes is essential for effective collaboration on GitHub. By following these guidelines, you can contribute to projects with confidence and clarity. 

@@ -1,5 +1,5 @@
 ---
-title: "2. Mastering Forking & Cloning on GitHub"
+title: "2. Forking & Cloning"
 ---
 
 # Mastering Forking and Cloning on GitHub

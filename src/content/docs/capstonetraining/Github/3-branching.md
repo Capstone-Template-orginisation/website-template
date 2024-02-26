@@ -1,5 +1,5 @@
 ---
-title: "3. Efficient Branching on GitHub"
+title: "3. Branching"
 ---
 
 # Mastering Branching on GitHub

@@ -1,5 +1,5 @@
 ---
-title: "1. Introduction to GitHub"
+title: "1. Intro to GitHub"
 ---
 
 # Welcome to GitHub!
