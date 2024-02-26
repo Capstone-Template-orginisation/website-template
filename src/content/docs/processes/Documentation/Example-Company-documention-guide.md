@@ -4,9 +4,9 @@ sidebar:
   label: Company Documenation Guide
 ---
 
-Company prides itself on our ability to produce sustainable solutions, this can be achieved
-through documentation. Documentation is an important element in the software development life cycle.
-It continues throughout the entire project. It is imperative to remember, others will take over your
+Company prides itself on our ability to produce sustainable solutions, this can be achieved through
+documentation. Documentation is an important element in the software development life cycle. It
+continues throughout the entire project. It is imperative to remember, others will take over your
 projects or want to learn more about how it works and why.
 
 Documentation is offical information, provided by the company, for users and contributors.
@@ -20,8 +20,8 @@ guides, and more.
 
 ## Top tips for Company Tech writing
 
-Effective writing is clear, easy to read, and concise. Company writing should follow the
-guidelines of plain English (Australian English).
+Effective writing is clear, easy to read, and concise. Company writing should follow the guidelines
+of plain English (Australian English).
 
 Here at Company, we aim for all our writing to meet these goals:
 

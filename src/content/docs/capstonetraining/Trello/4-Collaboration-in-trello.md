@@ -4,7 +4,9 @@ title: "4. Collaboration in Trello"
 
 # Collaboration in Trello
 
-Trello excels as a platform for collaboration, providing various features that facilitate seamless teamwork and communication. This guide delves into how to invite team members to your board and make the most of Trello's collaboration tools.
+Trello excels as a platform for collaboration, providing various features that facilitate seamless
+teamwork and communication. This guide delves into how to invite team members to your board and make
+the most of Trello's collaboration tools.
 
 ## Inviting Team Members to Collaborate
 
@@ -53,9 +55,15 @@ To involve stakeholders who need visibility into the project:
 ## Effective Collaboration Practices
 
 - **Regular Updates**: Encourage team members to regularly update cards with their progress.
-- **Board Meetings**: Consider holding short, periodic meetings to review the board together, ensuring alignment and addressing any blockers.
-- **Clear Guidelines**: Establish conventions for using labels, setting due dates, and assigning tasks to streamline communication and expectations.
+- **Board Meetings**: Consider holding short, periodic meetings to review the board together,
+  ensuring alignment and addressing any blockers.
+- **Clear Guidelines**: Establish conventions for using labels, setting due dates, and assigning
+  tasks to streamline communication and expectations.
 
 ## Conclusion
 
-Trello’s collaboration features transform individual boards into dynamic workspaces where teams can effectively communicate, organize, and progress on tasks. By inviting team members, utilizing comments and @mentions, and sharing boards with stakeholders, you ensure that everyone involved can contribute to and stay informed about the project’s status. Embrace these collaborative tools to enhance your team’s productivity and cohesion.
+Trello’s collaboration features transform individual boards into dynamic workspaces where teams can
+effectively communicate, organize, and progress on tasks. By inviting team members, utilizing
+comments and @mentions, and sharing boards with stakeholders, you ensure that everyone involved can
+contribute to and stay informed about the project’s status. Embrace these collaborative tools to
+enhance your team’s productivity and cohesion.

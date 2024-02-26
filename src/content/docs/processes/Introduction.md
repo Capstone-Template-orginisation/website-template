@@ -2,9 +2,10 @@
 title: Introduction
 ---
 
-The Capstone Guide informs company members of how to conduct certain company
-activities. The contents of this guide will assist in achieving consistency in micro-level company
-operations across all teams and products. This is aimed to be a template and can be updated to yor specifc needs as a company.
+The Capstone Guide informs company members of how to conduct certain company activities. The
+contents of this guide will assist in achieving consistency in micro-level company operations across
+all teams and products. This is aimed to be a template and can be updated to yor specifc needs as a
+company.
 
 ## Table of Contents
 
@@ -22,8 +23,8 @@ operations across all teams and products. This is aimed to be a template and can
 
 ## Storage of Documentation
 
-Undertaking documentation is a key company operations process within all Capstone Companies. This includes
-documenting:
+Undertaking documentation is a key company operations process within all Capstone Companies. This
+includes documenting:
 
 - Research findings
 - Meeting notes
@@ -116,12 +117,12 @@ The next few sections provide guidance on team meeting location and recordings o
 
 ### Location of Team Meetings
 
-Each team within Your Capstone Company is assigned their own private channel within Microsoft Teams to enable
-communication and collaboration. **This private channel is also the location where team meetings are
-to be conducted**. Doing so ensures that all team communication activities are conducted within the
-same location for ease of access and transparency. Further, conducting the team meetings within the
-same private channel allows company directors to keep track of team engagement and attend meetings
-as necessary.
+Each team within Your Capstone Company is assigned their own private channel within Microsoft Teams
+to enable communication and collaboration. **This private channel is also the location where team
+meetings are to be conducted**. Doing so ensures that all team communication activities are
+conducted within the same location for ease of access and transparency. Further, conducting the team
+meetings within the same private channel allows company directors to keep track of team engagement
+and attend meetings as necessary.
 
 #### Scheduling Meetings in Private Channels
 
@@ -156,9 +157,9 @@ channel members and the meeting is added to the calendar.
 ### Meeting Recordings
 
 Meeting recordings are a highly valuable source of evidence to demonstrate engagement and
-collaboration by your Capstone Company members. Additionally, recordings of meetings can be accessed by members
-who were unable to attend. This allows all members to be up-to-date with what has been discussed in
-the meetings.
+collaboration by your Capstone Company members. Additionally, recordings of meetings can be accessed
+by members who were unable to attend. This allows all members to be up-to-date with what has been
+discussed in the meetings.
 
 **As such, all team meetings must be recorded** using the MS Teams recording function.
 

@@ -4,8 +4,8 @@ sidebar:
   label: Writing Style Guide
 ---
 
-The writing style guide is designed to inform decision when writing on behalf of Company. This is
-a live guide and will ensure consistency across all Company communications.
+The writing style guide is designed to inform decision when writing on behalf of Company. This is a
+live guide and will ensure consistency across all Company communications.
 
 While writing, it is important to:
 
@@ -342,8 +342,8 @@ For example:
 
 ## Bias-free communication
 
-When creating documentation, we have an obligation to respect all individuals. At Company we
-promote an inclusive and supportive environment. This extends to our communication.
+When creating documentation, we have an obligation to respect all individuals. At Company we promote
+an inclusive and supportive environment. This extends to our communication.
 
 We have a responsibility to respect diversity and promote inclusion through all our communication.
 As such we enforce the following guidelines for bias-free communication.
@@ -394,8 +394,8 @@ Do not use profane/derogatory terms.
 
 ## Global communication
 
-Company is an open-source company with a potentially global reach. We value education and
-creating learning opportunities.
+Company is an open-source company with a potentially global reach. We value education and creating
+learning opportunities.
 
 We have a responsibility to write and communicate in a way that is accessible via a translator, this
 is a part of our global citizenship. As such we enforce the following guidelines for global

@@ -24,9 +24,9 @@ Tech members to become cyber-aware and enforce best cyber security practices in 
 
 ## Associated risks
 
-In most remote working scenarios, Company members will be utilising their own personal computers
-and Internet networks for conducting company activities. As such, there are numerous risks
-associated with remote working.
+In most remote working scenarios, Company members will be utilising their own personal computers and
+Internet networks for conducting company activities. As such, there are numerous risks associated
+with remote working.
 
 ### Reduced cyber security protections
 
@@ -65,8 +65,8 @@ increases the risk of a successful cyber-attack.
 
 ## Mitigation strategies
 
-For Company members, there are recommended practices that work to mitigate the cyber risks of
-remote working and strengthen their cyber security posture:
+For Company members, there are recommended practices that work to mitigate the cyber risks of remote
+working and strengthen their cyber security posture:
 
 - Perform regular backups of data and information, as this assists in restoring information should a
   data breach or security event occur.

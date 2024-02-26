@@ -2,10 +2,10 @@
 title: Capstone Technology Stack Document
 ---
 
-This document outlines the technology stack used across all products at example Company. The
-primary reason for creating this document was to showcase the various kinds of technologies being
-used across different products, along with the skills required for those who are interested in
-joining a product. You should update this document to reflect your own company.
+This document outlines the technology stack used across all products at example Company. The primary
+reason for creating this document was to showcase the various kinds of technologies being used
+across different products, along with the skills required for those who are interested in joining a
+product. You should update this document to reflect your own company.
 
 ### Company Operations
 
@@ -82,7 +82,7 @@ joining a product. You should update this document to reflect your own company.
 - Willing to adapt new technologies and tools over time.
 - Positive attitude toward learning range of new skills such as Angular/ Typescript and Ruby.
 
-### Product B 
+### Product B
 
 #### Tools used in Product B
 
