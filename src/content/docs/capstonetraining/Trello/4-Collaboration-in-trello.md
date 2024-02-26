@@ -1,5 +1,5 @@
 ---
-title: "Collaboration in Trello"
+title: "4. Collaboration in Trello"
 ---
 
 # Collaboration in Trello

@@ -1,5 +1,5 @@
 ---
-title: "Plugins and Power-Ups in Trello"
+title: "5. Plugins and Power-Ups in Trello"
 ---
 
 # Plugins and Power-Ups in Trello

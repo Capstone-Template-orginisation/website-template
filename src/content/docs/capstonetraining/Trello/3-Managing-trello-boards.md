@@ -1,5 +1,5 @@
 ---
-title: "Managing the Trello Board"
+title: "3. Managing the Trello Board"
 ---
 
 # Managing the Trello Board

@@ -1,5 +1,5 @@
 ---
-title: "Navigating Pull Requests on GitHub"
+title: "5. Navigating Pull Requests on GitHub"
 ---
 
 # Navigating Pull Requests on GitHub

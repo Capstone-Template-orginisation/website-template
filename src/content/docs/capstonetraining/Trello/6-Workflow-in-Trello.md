@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Workflows in Trello"
+title: "6. Optimizing Workflows in Trello"
 ---
 
 # Optimizing Workflows in Trello

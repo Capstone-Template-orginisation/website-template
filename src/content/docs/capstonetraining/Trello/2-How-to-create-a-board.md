@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Board in Trello"
+title: "2. How to Create a Board in Trello"
 ---
 
 # How to Create a Board in Trello

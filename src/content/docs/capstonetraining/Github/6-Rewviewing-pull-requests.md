@@ -1,5 +1,5 @@
 ---
-title: "Reviewing Pull Requests"
+title: "6. Reviewing Pull Requests"
 ---
 
 # Reviewing Pull Requests

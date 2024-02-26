@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Trello"
+title: "1. Introduction to Trello"
 ---
 
 # Introduction to Trello

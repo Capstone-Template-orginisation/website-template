@@ -1,5 +1,5 @@
 ---
-title: "Advanced Topics in Git and GitHub"
+title: "7. Advanced Topics in Git and GitHub"
 ---
 
 # Advanced Topics in Git and GitHub
