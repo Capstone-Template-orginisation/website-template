@@ -2,7 +2,7 @@
 title: "6. Optimizing Workflows in Trello"
 ---
 
-# Optimizing Workflows in Trello
+## Overview
 
 Efficiently managing workflows in Trello not only boosts project efficiency but also ensures clarity
 and progress tracking. This guide outlines how to effectively set up and customize your workflows in
