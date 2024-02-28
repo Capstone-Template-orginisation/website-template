@@ -1,10 +1,15 @@
 ---
-title: "Introduction to Trello"
+title: "1. Introduction to Trello"
 ---
 
 # Introduction to Trello
 
-Welcome to our introductory guide to Trello! This document serves as a quick primer on using Trello for project management and collaboration.
+Welcome to our quick start guide to Trello! This document is your gateway to mastering Trello for
+enhanced project management and team collaboration.
+
+## Video introduction to Trello
+
+[![Video Title](https://img.youtube.com/vi/OB6fvdMQ5RI/0.jpg)](https://youtu.be/OB6fvdMQ5RI "Click here to watch the video")
 
 ## What is Trello?
 

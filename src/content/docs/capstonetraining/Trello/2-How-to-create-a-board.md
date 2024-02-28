@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Board in Trello"
+title: "2. How to Create a Board in Trello"
 ---
 
 # Creating a Capstone Trello Board
@@ -68,25 +68,6 @@ Once you have selected a template it is a good idea to add the project tasks and
 
 _Figure 5: Creating new Project Cards_
 
-### Collaboration in Trello
-
-Trello shines as a collaborative tool, enabling teams to work together seamlessly and ensuring everyone is on the same page. To effectively collaborate and start project work you will need to invite the other project stakeholders to the project board. If you select the ‘Share’ option in the top right-hand corner this will allow you to add all the project stakeholders who will be using the board for the trimester. Sharing the board with a link is valuable if you need to add many new stakeholders. 
-
-*Collaboration Features:*
-
-- Comment on cards to discuss tasks.
-- Use @mentions to notify specific members.
-- Share boards with stakeholders.
-
-*Inviting Team Members:*
-
-- **To invite someone:** Select the *Share* option in the top-right hand corner and enter the stakeholders name or email address.
-- **To share the Board:** Click the *Share* option in the top-right hand corner; Select create link; Copy link and share to the other collaborators. 
-
-![collaboration](../../../../../public/img_trello_training/c2_collaboration.png)
-
-_Figure 6: Collaboration in Trello_
- 
 ### Main Settings
 Once the board has been created with important project cards a good next step is to review the board settings. If you click the three dots on the right-hand side, then settings you can organise the workspace name and permissions. 
 

@@ -24,8 +24,8 @@ company.
 
 By the end of week 1, it is expected that everyone has been assigned to a team and has engaged with
 the product leads and mentors. In any product/team you find yourself ensure that you follow the
-rules and guidelines of the team. Only 3 Company products would be worked on this trimester
-because of the limited time and manpower. The products and respective mentors are listed below.
+rules and guidelines of the team. Only 3 Company products would be worked on this trimester because
+of the limited time and manpower. The products and respective mentors are listed below.
 
 1. Ontrack: Daniel Maddern
 2. SplashKit: Olivia McKeon

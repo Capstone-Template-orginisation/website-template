@@ -28,8 +28,8 @@ Steps:
 
 ### If you have never worked on the repository before
 
-- Clone your project's relevant Company repository to your local machine and navigate to the
-  created project folder; you will find yourself on the default branch (main/master).
+- Clone your project's relevant Company repository to your local machine and navigate to the created
+  project folder; you will find yourself on the default branch (main/master).
 
 ### If you already have a copy of this repository on your local machine
 

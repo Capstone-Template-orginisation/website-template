@@ -17,13 +17,12 @@ enhance education outcomes by empowering students, connecting them with tutors, 
 personalised learning experiences
 
 Company currently runs with below products/ projects for T2 2023. These projects have respective
-Teams channel (links embedded) for the communications. 
+Teams channel (links embedded) for the communications.
 
 Add your products info, videos and Teams channels here.
 
-**Please fill out this form to indicate your project of interest:**
-Create a form and place the link here for onboarding to a certain project.
-
+**Please fill out this form to indicate your project of interest:** Create a form and place the link
+here for onboarding to a certain project.
 
 ## Our Culture and Values
 
@@ -80,7 +79,7 @@ team culture:
 
 ## Company Team Structure
 
-Below is the up to date structure of Company Company. 
+Below is the up to date structure of Company Company.
 
 Add your Org Chart here
 
@@ -149,7 +148,6 @@ Specific Tasks based on your Role:
 
 - Ensure you attend the weekly class or go through the recording
 
-
 - Get to know your team, team lead, and mentor
 
 - Your Mentor will reach out to you for setting up weekly cadence. In case you haven’t heard from
@@ -166,8 +164,8 @@ Specific Tasks based on your Role:
 
 ## Documentation Website
 
-You should create your own documenation website, you can clone this one and update it to suit your needs or set up a new one as per the doucmenation contained in this site.
-
+You should create your own documenation website, you can clone this one and update it to suit your
+needs or set up a new one as per the doucmenation contained in this site.
 
 ## Getting help in Company
 
@@ -212,8 +210,8 @@ its not just about being given the answer, but about finding the answer for your
 3. Key an eye for help and training session ran by the product leads throughout, these will be
    posted on the team's channel.
 4. Be polite when asking for assistance.
-5. You can ask for help outside of your local team, Company is a company full of great students
-   with varying skillsets.
+5. You can ask for help outside of your local team, Company is a company full of great students with
+   varying skillsets.
 6. Keep your mentor updated on your progress and ask them questions around Ontrack tasks if you have
    any.
 

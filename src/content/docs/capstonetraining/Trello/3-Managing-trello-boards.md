@@ -1,4 +1,3 @@
----
 title: "Managing a Capstone Trello Board"
 ---
 
@@ -27,6 +26,14 @@ A well-defined and customised workflow in Trello helps keep your project organiz
 ## Managing Cards
 
 In essence, each Trello card should encapsulate a capstone task to be completed within one sprint by between one to three team members. Each card should have a short description of the work required along with a checklist of items to be completed to finalise the card. A capstone task should be equivalent to one user story from the requirements analysis stage.
+
+**Adding Cards**
+
+Cards are the individual tasks or items within each list. To add a new card:
+
+1. Click "Add a card" at the bottom of the list where you want the card to appear.
+2. Enter a title for your card, which should succinctly describe the task or item.
+3. Press Enter to add the card to the list.
 
 The following features are required in a card:
 
@@ -126,12 +133,11 @@ _Figure 7: Email to Board Feature_
 
 ## Conclusion
 
-You have now gone over key functionality to manage the Trello Board effectively during your capstone experience. Managing your Trello board effectively can streamline your project workflow, making it easier to track progress and collaborate with your team. Good work! 
+Effectively managing your Trello board transforms it into a dynamic tool for visualizing and controlling project workflows. By adding and organizing lists and cards, utilizing labels, and assigning tasks, your board becomes a central hub for project management and team collaboration. You have now gone over key functionality to manage the Trello Board effectively during your capstone experience. Managing your Trello board effectively can streamline your project workflow, making it easier to track progress and collaborate with your team. Good work! 
+
 
 ## References
 
 - Trello (Published June 16, 2020), _Trello labels: how to organize, categorize, and prioritize cards_, Trello Blog, Atlassian 2023, accessed 3rd of February 2024, _[Trello labels: how to organize, categorize, and prioritize cards - Work Life by Atlassian](https://www.atlassian.com/blog/trello/taco-tuesdays-learning-to-love-labels#:~:text=More%20Quick%20Tips%20For%20Using%20Trello%20Labels%201,which%20you%20would%20like%20to%20filter.%20More%20items)_
 - Zoho Desk 2024, _5 Project Management: Product Management Buckets_, Trello 2024, accessed 3rd of February 2024, *https://trello.com/templates/product-management/5-product-management-buckets-H8rDCB7e*
-
-
 
