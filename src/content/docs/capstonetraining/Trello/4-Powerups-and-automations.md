@@ -51,6 +51,48 @@ Powerups are integrations you can add to your Trello board so you can manage the
 
 _Figure 1: A sample capstone card with powerups_
 
+## Compulsory Power-Ups for Development Teams
+
+### Story Points
+
+- **Purpose**: Enables teams to estimate the effort or complexity of tasks using story points, a
+  fundamental aspect of agile project management.
+- **How to Use**: After adding the Story Points Power-Up, you can assign point values to each card.
+  This facilitates sprint planning and workload management by allowing teams to assess the effort
+  required for tasks at a glance.
+
+### GitHub
+
+- **Purpose**: Integrates your GitHub repositories with your Trello boards, linking commits, pull
+  requests, and issues to Trello cards. This synchronization enhances transparency and communication
+  between development and project management efforts.
+- **How to Use**: With the GitHub Power-Up enabled, connect your GitHub account and link
+  repositories to your Trello board. You can then attach GitHub issues, pull requests, and more
+  directly to cards, making it easy to track development progress alongside your project management
+  activities.
+
+## Leveraging Power-Ups for Project Success
+
+### Story Points and GitHub Integration
+
+Incorporating Story Points and GitHub into your Trello boards provides a dual advantage: precise
+workload estimation through story points and seamless integration of development workflows with
+GitHub. This combination is particularly powerful for teams practicing agile methodologies, as it
+bridges the gap between project management and code development.
+
+### Best Practices
+
+- **Regularly Review Story Points**: Regularly assess the story points assigned to tasks to ensure
+  they reflect the current understanding of the task's complexity.
+- **Keep GitHub Links Updated**: Ensure that links between Trello cards and GitHub issues or PRs are
+  kept current to maintain clarity on project status.
+
+Power-Ups like Story Points and GitHub are essential for development teams using Trello to manage
+projects. By facilitating agile practices and integrating closely with development workflows, these
+Power-Ups empower teams to achieve greater efficiency, clarity, and alignment in their projects.
+Explore these and other Power-Ups to fully harness the capabilities of Trello in your project
+management endeavors.
+
 ## Automations
 
 Trello has an in-built automation system called Butler which is helpful for completing mundane administration work. This feature can help remove a lot of the tedious tasks so you can focus instead on completing your project work. 

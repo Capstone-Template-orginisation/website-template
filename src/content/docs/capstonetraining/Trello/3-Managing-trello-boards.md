@@ -73,6 +73,60 @@ It is recommended to have a *Templates and Project Information* list on the caps
 - **Tips & Tricks:** A place where team members can share any helpful hints or IT tips to successfully work on the project;
 - **Upskilling for this Project:** This card should contain learning courses relevant to the capstone company and project. For example it could contain LinkedIn Learning paths such as: *Become a Data Analyst, Become a Data Scientist*, or *Become a Full Stack Web Developer*.
 
+## Collaboration in Trello
+
+Trello shines as a collaborative tool, enabling teams to work together seamlessly and ensuring everyone is on the same page. To effectively collaborate and start project work you will need to invite the other project stakeholders to the project board. If you select the ‘Share’ option in the top right-hand corner this will allow you to add all the project stakeholders who will be using the board for the trimester. Sharing the board with a link is valuable if you need to add many new stakeholders. 
+
+*Collaboration Features:*
+
+- Comment on cards to discuss tasks.
+- Use @mentions to notify specific members.
+- Share boards with stakeholders.
+
+*Inviting Team Members:*
+
+- **To invite someone:** Select the *Share* option in the top-right hand corner and enter the stakeholders name or email address.
+- **To share the Board:** Click the *Share* option in the top-right hand corner; Select create link; Copy link and share to the other collaborators. 
+
+![collaboration](../../../../../public/img_trello_training/c2_collaboration.png)
+
+_Figure 6: Collaboration in Trello_
+
+**Commenting on Cards** 
+
+Comments are crucial for discussion and updates on tasks:
+
+- Click on a card to open it.
+- Scroll to the "Add Comment" section.
+- Type your comment and press Enter or click "Save."
+
+Use comments to provide feedback, ask questions, or update the team on progress.
+
+**Using @mentions to Notify Members**
+
+Get the attention of specific team members:
+
+- In a card comment or description, type "@" followed by the team member's name.
+- Select the correct person from the dropdown list.
+- They will receive a notification about the mention.
+
+@mentions ensure that messages reach the relevant team members quickly.
+
+**Sharing Boards with Stakeholders**
+
+To involve stakeholders who need visibility into the project:
+
+- Ensure your board’s visibility settings allow for sharing.
+- Invite stakeholders as members or observers, depending on the level of access you wish to grant.
+
+**Effective Collaboration Practices**
+
+- **Regular Updates**: Encourage team members to regularly update cards with their progress.
+- **Board Meetings**: Consider holding short, periodic meetings to review the board together,
+  ensuring alignment and addressing any blockers.
+- **Clear Guidelines**: Establish conventions for using labels, setting due dates, and assigning
+  tasks to streamline communication and expectations.
+
 ## Labels
 
 Creating labels for the Trello Board is handy for effective project organisation. Trello Labels help capstone students with organising, prioritising, and categorising cards. Labels can be created through the menu tab on the right-hand side of the board. It is recommended to have two sets of labels. One for the prioritization of tasks and another for task categorization.
