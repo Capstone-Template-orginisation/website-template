@@ -36,7 +36,7 @@ The following features are required in a card:
 - **Attachments**: Any relevant attachments required to complete the card.
 - **Cover**: Capstone team members can insert a cover photo to represent the card.
 
-![manage_cards](img/c3_managecards.png)
+![manage_cards](../../../../../public/img_trello_training/c3_managecards.png)
 
 _Figure 1: A Sample Capstone Trello Card_
 
@@ -48,11 +48,11 @@ There are two great Trello List Template options for a capstone student:
 - **The Agile Sprint Template** consisting of the following lists: Project Information, Possible Tasks, Backlog, Sprint Backlog, Doing, Review, Sprint Complete.
 - **The Kanban Template** with the lists: Project Information, Possible Tasks, Backlog, Design, To Do, Doing, Code Review, Testing and Done.
 
-![kanban_template](img/c3_kanban.png)
+![kanban_template](../../../../../public/img_trello_training/c3_kanban.png)
 
 _Figure 2: The Kanban Template_
 
-![agile_template](img/c3_agile.png)
+![agile_template](../../../../../public/img_trello_training/c3_agile.png)
 
 _Figure 3: The Agile Sprint Template_
 
@@ -96,7 +96,7 @@ _Task categories - Suggestion 2:_
 
 A further feature to consider is to enable the colour-blind friendly mode on the labels. Doing so places speciality features on each of the labels making them viewable for collaborators who are colour-blind.
 
-![capstone_labels](img/c3_labels.png)
+![capstone_labels](../../../../../public/img_trello_training/c3_labels.png)
 
 _Figure 4: Sample Capstone Labels_
 
@@ -104,7 +104,7 @@ _Figure 4: Sample Capstone Labels_
 
 Filters in Trello can be used to effectively manage a Trello Card. This feature allows you to sort through cards based on selected criteria. For example, as a capstone student you could filter tasks that are due by the end of the next sprint.
 
-![filters](img/c3_filters.png)
+![filters](../../../../../public/img_trello_training/c3_filters.png)
 
 _Figure 5: Filtering by cards assigned to Daniel_
 
@@ -114,13 +114,13 @@ Trello cards can be filtered in two ways through either any or an exact match. A
 
 An important aspect of the Trello Board to review is the board settings. Clicking on the three dots to the right-hand side of the board displays the menu section. From here, a team member can engage in various board management activities including: adding a description, monitoring activity, and reviewing the settings. There should always be a description of the board. To add one, first click on about this board and description.
 
-![board_settings](img/c3_boardsettings.png)
+![board_settings](../../../../../public/img_trello_training/c3_boardsettings.png)
 
 _Figure 6: Updating the Board Description_
 
 The settings section further allows the user to organise the Workspace, Permissions and Covers. From here, you can watch, copy, close, print, export and share the Trello Board. These are handy features if you would like to collaborate with others using the Trello board. Another settings feature is the email to board. This feature emails the user the Trello Board allowing them to directly add cards to the board through their email. Custom fields are an advanced feature only available through Premium, allowing you to create customised card features such as text fields and more.
 
-![email_board](img/c3_emailboard.png)
+![email_board](../../../../../public/img_trello_training/c3_emailboard.png)
 
 _Figure 7: Email to Board Feature_
 

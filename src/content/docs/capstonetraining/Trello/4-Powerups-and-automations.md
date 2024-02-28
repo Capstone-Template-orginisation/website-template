@@ -16,7 +16,7 @@ Check out the below video covering finding, adding and using powerups. Creating 
 
 ## Powerups
 
-Powerups are integrations you can add to your Trello board so you can manage the board across other IT applications. This allows for enhanced workflow integration. Three excellent powerups to use during the capstone university program are: Github, Microsoft Teams and OneDrive.
+Powerups are integrations you can add to your Trello board so you can manage the board across other IT applications. This allows for enhanced workflow integration. Four excellent powerups to use during the capstone university program are: Github, Storypoints, Microsoft Teams and OneDrive.
 
 **Adding Power-Ups**
 
@@ -32,7 +32,11 @@ Powerups are integrations you can add to your Trello board so you can manage the
 - Attach either a branch, commit, issue or pull request, 
 - A link will now show on the card to the Github request. 
 
-![github_powerup](img/c4_github_powerup.png)
+![github_powerup](../../../../../public/img_trello_training/c4_github_powerup.png)
+
+
+**Story Points**
+- Story Points are used to assign the weight for a task, measure the task difficulty and the overall amount of work required. As the amount of story points increases in conjunction the task difficulty level or overall work increases. When we assign the story points for each task then we can get the overview of the total work required for the project and the breakdown of project work by task. 
 
 **Microsoft Teams**
 - Microsoft Teams is another handy powerup which can be linked to the Trello Account during capstone. Integrating the Microsoft Teams powerup within Trello allows you to manage the Board within the Microsoft Teams environment. Collaboration with team members on cards and project files is therefore enhanced.
@@ -40,9 +44,10 @@ Powerups are integrations you can add to your Trello board so you can manage the
 **OneDrive**
 - OneDrive allows you to connect the Trello Board directly to one or multiple OneDrive accounts. As a result, a capstone student can directly attach files or folders from OneDrive to a card.
 
-Some other good powerups for capstone are Gmail and Calendar View. Still, there are many more to explore so ensure you review the powerups feature. A sample card is below with the Github and OneDrive powerup links for workflow efficiency. Here is a guide for using Trello Powerups _(https://trello.com/guide/integrate-apps#do-more-with-power-ups)_.
+**Further Powerup Information**
+- Some other good powerups for capstone are Gmail and Calendar View. Still, there are many more to explore so ensure you review the powerups feature. A sample card is below with the Github and OneDrive powerup links for workflow efficiency. Here is a guide for using Trello Powerups _(https://trello.com/guide/integrate-apps#do-more-with-power-ups)_.
 
-![powerup](img/c4_powerup.png)
+![powerup](../../../../../public/img_trello_training/c4_powerup.png)
 
 _Figure 1: A sample capstone card with powerups_
 
@@ -59,7 +64,7 @@ With automation you can create the following rules:
 
 In the below example tailored to capstone, a typical automation rule has been created to complete the administration to set up a card. When I create a card, the automation performs a set of routine administration tasks. It adds a due date for the end of the trimester, a comment, a medium priority and web development label, and a star along with another team member. These automations save time and ensure consistency across created cards.
 
-![automation](img/c4_automation.png)
+![automation](../../../../../public/img_trello_training/c4_automation.png)
 
 _Figure 2: Creating a Trello automation rule_
 

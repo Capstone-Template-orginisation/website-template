@@ -17,7 +17,7 @@ Check out the below video covering buttons, templates and helpful Trello resourc
 
 Buttons are handy since they allow you, with a single click to manage automation rules and workflows. To create a button, open the card and select the *Add Button* tab under *Automation*. The prompts can then be followed to create the button actions. For example, in the below screenshot, I created a button to move a card to the top of the review list and mark the task as complete. This means when a task is ready to be reviewed, I can easily perform the administration required. 
 
-![buttons](img/c5_buttons.png)
+![buttons](../../../../../public/img_trello_training/c5_buttons.png)
 
 _Figure 1: Review Button_
 
@@ -31,7 +31,7 @@ It is recommended to create a template for particular categories of tasks requir
 
 In essence, card templates are a great way for ensuring consistency and clarity within the Trello board.
 
-![card_templates](img/c5_cardtemplates.png)
+![card_templates](../../../../../public/img_trello_training/c5_cardtemplates.png)
 
 _Figure 2: Template Front End Web Development Card_
 

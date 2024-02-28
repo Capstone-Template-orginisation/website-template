@@ -10,4 +10,4 @@ The Trello team is always developing new and cool functionality, so be sure to f
 
 *Summary Message: https://youtu.be/EKFB_KnLIRA*
 
-![best luck](img/c6_luck.png)
+![best luck](../../../../../public/img_trello_training/c6_luck.png)

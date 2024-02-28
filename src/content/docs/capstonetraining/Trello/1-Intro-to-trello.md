@@ -48,8 +48,7 @@ Boards provide a high-level overview of an Information Technology project. A pro
 
 Most of the Capstone companies already have a Trello Board for their projects. Therefore, it is critical to familiarise yourself with the Board to understand the project workflow and collaboration style. If you need ideas to create a new Trello Board or refine an existing one, there are several great templates provided which are well suited to a capstone project. Some Trello templates provided for boards include: _“Project Management”, “Kanban”, “Simple Project Board”, and “Remote Team Hub”_. For anyone creating their first Project Board, a _Simple Project Board_ is a good board to start with. A screenshot of this board is below for reference:
 
-![trello_board](img/c1_boards.png)
-
+![trello_board](../../../../../public/img_trello_training/c1_boards.png)
 _Figure 1: Trello Simple Project Board_
 
 ### Cards
@@ -58,7 +57,8 @@ Within the Trello Framework another key aspect for managing workflows is Cards. 
 
 Once card documentation is complete, it can be assigned to a particular team member and organised through tools such as labels, deadlines and notifications. An example of a real-life Trello Card is shown below for completing research on Differential Privacy from the Capstone Company Data Bytes.
 
-![card_example](img/c1_cards.png)
+![card_example](../../../../../public/img_trello_training/c1_cards.png)
+
 
 _Figure 2: An Example Capstone Trello Card_
 
@@ -66,7 +66,7 @@ _Figure 2: An Example Capstone Trello Card_
 
 Lists help efficiently organise cards into their stage within the project. Lists can be created to group similar tasks together based on common features. Within capstone you could create a list called _“To Do”_, incorporating all the tasks that are to be completed by the end of a particular sprint. Or a list called _“Brainstorm”_ which houses all the ideas proposed for the project requiring discussion with project leadership before implementation. Five lists that can be created to start organising cards for a project include: _“Project Information”, “Brainstorm”, “To Do”, “Doing” and “Done”_. An example of a group of lists from the Capstone company Data Bytes is shown below in Figure 3.
 
-![list_example](img/c1_lists.png)
+![list_example](../../../../../public/img_trello_training/c1_lists.png)
 
 _Figure 3: An example of Capstone Lists_
 
