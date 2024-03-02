@@ -9,11 +9,10 @@ you to propose changes to a project that the repository maintainers can then rev
 This section will guide you through creating a pull request, from pushing your changes to a branch
 or fork, to having your contributions reviewed for inclusion in the main project repository.
 
-## Upcoming Video Tutorial
+## Video Tutorial
 
-We're preparing a video tutorial to visually guide you through the process of making pull requests
-on GitHub. This tutorial will complement the information here, offering step-by-step instructions to
-enhance your understanding.
+[![Watch the Pull Requests Video Tutorial](https://img.youtube.com/vi/uXUfgMFB_k8/0.jpg)](https://youtu.be/ecTl7Ymdg50 "Pull requests - Click to Watch!")
+
 
 ## Understanding Pull Requests
 
