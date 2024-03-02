@@ -11,7 +11,7 @@ or fork, to having your contributions reviewed for inclusion in the main project
 
 ## Video Tutorial
 
-[![Watch the Pull Requests Video Tutorial](https://img.youtube.com/vi/uXUfgMFB_k8/0.jpg)](https://youtu.be/ecTl7Ymdg50 "Pull requests - Click to Watch!")
+[Watch the Pull Requests Video Tutorial](https://youtu.be/ecTl7Ymdg50 "Pull requests - Click to Watch!")
 
 ## Understanding Pull Requests
 

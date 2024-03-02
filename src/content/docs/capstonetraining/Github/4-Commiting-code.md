@@ -11,7 +11,7 @@ synchronizing your changes with GitHub.
 
 ## Commiting Code Video Tutorial
 
-[![Watch the Commiting code Video Tutorial](https://img.youtube.com/vi/uXUfgMFB_k8/0.jpg)](https://youtu.be/ztLzIC8Dvlw "Commiting Code - Click to Watch!")
+[Watch the Commiting code Video Tutorial](https://youtu.be/ztLzIC8Dvlw "Commiting Code - Click to Watch!")
 
 ## Preparing Your Changes
 

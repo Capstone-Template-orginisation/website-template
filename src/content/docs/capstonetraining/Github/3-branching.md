@@ -13,7 +13,7 @@ This guide will equip you with a thorough understanding of branching and how to 
 For a hands-on learning experience, watch our detailed video tutorial on branching. It's designed to
 help you master branching concepts and techniques with ease:
 
-[![Watch the Branching Video Tutorial](https://img.youtube.com/vi/uXUfgMFB_k8/0.jpg)](https://youtu.be/uXUfgMFB_k8 "Branching with GitHub - Click to Watch!")
+[Watch the Branching Video Tutorial](https://youtu.be/uXUfgMFB_k8 "Branching with GitHub - Click to Watch!")
 
 ## The Essentials of GitHub Branching
 
