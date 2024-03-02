@@ -24,12 +24,6 @@ git add <fileName>
 
 Replace `<fileName>` with the name of the file you've modified or use `.` to add all changes.
 
-## Checking Your Current Status
-
-It's easy to lose track of which changes have been staged for commit. Use the following command to
-display your working directory's current state:
-
-Replace `<fileName>` with the name of the file you've modified or use `.` to add all changes.
 
 ## Checking Your Current Status
 
