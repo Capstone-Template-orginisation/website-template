@@ -14,7 +14,6 @@ synchronizing your changes with GitHub.
 [![Watch the Commiting code Video Tutorial](https://img.youtube.com/vi/uXUfgMFB_k8/0.jpg)](https://youtu.be/ztLzIC8Dvlw "Commiting Code - Click to Watch!")
 
 
-
 ## Preparing Your Changes
 
 Before your changes can be recorded in your project's history, they must be staged. This process
