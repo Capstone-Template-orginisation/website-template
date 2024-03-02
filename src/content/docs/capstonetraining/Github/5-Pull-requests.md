@@ -13,7 +13,6 @@ or fork, to having your contributions reviewed for inclusion in the main project
 
 [![Watch the Pull Requests Video Tutorial](https://img.youtube.com/vi/uXUfgMFB_k8/0.jpg)](https://youtu.be/ecTl7Ymdg50 "Pull requests - Click to Watch!")
 
-
 ## Understanding Pull Requests
 
 A pull request is essentially a request to merge your changes into the main project. It's the stage
