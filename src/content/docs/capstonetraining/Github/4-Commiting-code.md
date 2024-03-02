@@ -11,9 +11,7 @@ synchronizing your changes with GitHub.
 
 ## Commiting Code Video Tutorial
 
-A comprehensive video tutorial will soon be available to visually guide you through the process of
-committing code on GitHub. This tutorial will provide step-by-step instructions to enhance your
-understanding and ensure a smooth workflow.
+A new video is coming
 
 ## Preparing Your Changes
 
