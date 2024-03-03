@@ -13,7 +13,7 @@ of GitHub, ensuring you have all the tools you need to start your journey.
 Dive into our engaging video tutorial for an interactive introduction to GitHub. This step-by-step
 guide will take you through the basics and beyond:
 
-[Intro to GitHub - Interactive Video Guide](https://www.youtube.com/watch?v=oSVUcAoUH9Y&list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE&index=2 "Click to Start Your Journey!")
+[Intro to GitHub - Interactive Video Guide](https://youtu.be/3dLTbcKaQN4 "Click to Start Your Journey!")
 
 ## Understanding GitHub
 

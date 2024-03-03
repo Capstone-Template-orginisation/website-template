@@ -13,7 +13,7 @@ workflow.
 To ensure you have a solid grasp of forking and cloning, we've prepared a detailed video tutorial.
 This resource will guide you through each step, ensuring you can confidently contribute to projects:
 
-[Forking and Cloning Repositories Video Tutorial - Click to Watch!](https://youtu.be/d7O95zD_xTA?list=PLfzUEqPzJroL1qY2eQL6xFeB2WdJUTdGE)
+[Forking and Cloning Repositories Video Tutorial - Click to Watch!](https://youtu.be/FVEpojv_Jxg)
 
 ## Understanding Forking and Cloning
 
