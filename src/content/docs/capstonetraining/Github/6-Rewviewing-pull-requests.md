@@ -12,7 +12,7 @@ reviews.
 
 ## Video example of reviewing Pull requests
 
-[Watch the reviewing pull requests Video Tutorial](https://youtu.be/L_QurwohO7E "Reviewing Pull requests - Click to Watch!")
+[Watch the reviewing pull requests Video Tutorial](https://youtu.be/Z5cpNFpUt-0 "Reviewing Pull requests - Click to Watch!")
 
 ## Reviewing Markdown Files (MD)
 
